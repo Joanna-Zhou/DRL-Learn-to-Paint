@@ -1,5 +1,6 @@
 import pandas
 import numpy as np
-training_data = np.array(pandas.read_csv('toronto_reviews.csv'))
+training_data = np.array(pandas.read_csv('sample_toronto.csv'))
+
 
 
