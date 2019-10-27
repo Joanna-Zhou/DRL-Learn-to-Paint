@@ -1,0 +1,22 @@
+{
+  search(
+    location: "toronto"
+    categories: "Restaurants"
+    limit: 50
+    offset: %d
+    sort_by: "review_count"
+  ) {
+    total
+    business {
+      name
+      price
+      id
+      categories {
+        title
+        parent_categories {
+          title
+        }
+      }
+    }
+  }
+}

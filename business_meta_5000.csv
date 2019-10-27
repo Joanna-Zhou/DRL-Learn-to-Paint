@@ -1,0 +1,1001 @@
+,business_id,price,business_name,immediate_categories,parent_categories
+0,r_BrIgzYcwo1NAuG9dLbpg,$$,Pai Northern Thai Kitchen,Thai,Restaurants
+1,RtUvSWO_UZ8V3Wpj0n077w,$$,KINKA IZAKAYA ORIGINAL,"Japanese, Pubs","Bars,Restaurants"
+2,aLcFhMe6DDJ430zelCpd2A,$$,Khao San Road,Thai,Restaurants
+3,iGEvDk6hsizigmXhDKs2Vg,$,Seven Lives Tacos Y Mariscos,Mexican,Restaurants
+4,N93EYZy9R0sdlEvubu94ig,$,Banh Mi Boys,"Vietnamese, Sandwiches",Restaurants
+5,RwRNR4z3kY-4OsFqigY5sw,$,Uncle Tetsu's Japanese Cheesecake,"Desserts, Bakeries",Food
+6,zgQHtqX0gqMw1nlBZl2VnQ,$$,Momofuku Noodle Bar,"Noodles, Ramen","Japanese,Restaurants"
+7,uAAWlLdsoUf872F1FKiX1A,$$,Bang Bang Ice Cream and Bakery,"Desserts, Ice Cream & Frozen Yogurt",Food
+8,B70iTJjcPkuYn8ouUewWgw,$$,Gusto 101,Italian,Restaurants
+9,-av1lZI1JDY_RZN2eTMnWg,$$,Salad King Restaurant,Thai,Restaurants
+10,e41TP5cXZqSrz50xCBJqZw,$$,Insomnia Restaurant & Lounge,"Comfort Food, Lounges, Breakfast & Brunch","Bars,Restaurants"
+11,a8pmtlVKf7NiSLI-4KejIw,$$$,El Catrin Destileria,Mexican,Restaurants
+12,_xAJZOKBMPOe47p1MphB2w,$$$,Fishman Lobster Clubhouse Restaurant,"Chinese, Seafood",Restaurants
+13,f5O7v_X_jCg2itqacRfxhg,$$,Sansotei Ramen,"Noodles, Ramen","Japanese,Restaurants"
+14,mG71gQ5HWl7ut9OCN6NJKA,$$$$,360 Restaurant,Canadian (New),Restaurants
+15,kOFDVcnj-8fd3doIpCQ06A,$$,Mildred's Temple Kitchen,"Canadian (New), Breakfast & Brunch",Restaurants
+16,DE89UdHFMCN6DtYWZuer5A,$$,Hokkaido Ramen Santouka,"Noodles, Ramen","Japanese,Restaurants"
+17,Yl2TN9c23ZGLUBSD9ks5Uw,$$$,Byblos,"Mediterranean, Middle Eastern",Restaurants
+18,h_4dPV9M9aYaBliH1Eoeeg,$$,Wvrst,"Beer Bar, German","Bars,Restaurants"
+19,-9dmhyBvepc08KPEHlEM0w,,CN Tower,"Observatories, Landmarks & Historical Buildings","Arts & Entertainment,Public Services & Government"
+20,mZRKH9ngRY92bI_irrHq6w,$$$,Richmond Station,Canadian (New),Restaurants
+21,0a2O150ytxrDjDzXNfRWkA,$$$,Miku,"Japanese, Sushi Bars",Restaurants
+22,k6zmSLmYAquCpJGKNnTgSQ,$$,The Stockyards,"Barbeque, Burgers, American (Traditional)",Restaurants
+23,O1TvPrgkK2bUo5O5aSZ7lw,$$,Rol San,Dim Sum,Chinese
+24,N_2yEZ41g9zDW_gWArFiHw,$$,Sweet Jesus,"Desserts, Ice Cream & Frozen Yogurt, Coffee & Tea",Food
+25,MS-hfug4QDXqb_Mws3qlzA,$$,Grand Electric,"Bars, Mexican","Restaurants,Nightlife"
+26,JMiaNitMzMbJm6Kh0RbT5A,$$$$,Canoe,Canadian (New),Restaurants
+27,8I5U8OQ06nSxX2y4PPOWzQ,$$,Japango,Sushi Bars,Restaurants
+28,Fx5haZv9PP3E7Ljp-h7B1Q,$$,Eggspectation,"Juice Bars & Smoothies, Breakfast & Brunch","Food,Restaurants"
+29,nBl_4gw5ecGzNkHyzfii8g,$$,Terroni,Italian,Restaurants
+30,O-uIEuv7JLUHajkemx_sVw,$$,Beerbistro,"Bistros, Beer Bar","Bars,Restaurants"
+31,crstB-H5rOfbXhV8pX0e6g,$$,Ramen Isshin,Ramen,Japanese
+32,snw9iNNLpFYZeHotW00uVA,$$$,Lee Restaurant,Asian Fusion,Restaurants
+33,SjgeuBlgKER9yegpoxT99w,$$,Nomé Izakaya,"Japanese, Lounges, Tapas Bars","Bars,Restaurants"
+34,htVvtLIFftBLqzRISjReDw,$$,The Cheesecake Factory,"Desserts, American (Traditional)","Food,Restaurants"
+35,RA00GtlU25TkIP9i9wd8bg,,Ripley's Aquarium of Canada,Aquariums,Active Life
+36,fGurvC5BdOfd5MIuLUQYVA,$,Dumpling House Restaurant,Chinese,Restaurants
+37,trKyIRyjKqVSZmcU0AnICQ,$$,Pearl Diver,"Comfort Food, Breakfast & Brunch, Seafood",Restaurants
+38,jc3p5SFyt9qrrMXt6E13ig,$$,Tsujiri,"Tea Rooms, Desserts, Ice Cream & Frozen Yogurt",Food
+39,i--dxuKd_6Dx7mwgQ5nl-g,$$,School Restaurant,"Canadian (New), Breakfast & Brunch, Bakeries","Food,Restaurants"
+40,yg_A_TpYkJjr1fef0J6QkQ,$$,Konjiki Ramen,Ramen,Japanese
+41,UxWH8zRYIBgs6Q2oykvRdw,$$$,Cluny Bistro & Boulangerie,"Wine Bars, French, Cocktail Bars","Bars,Restaurants"
+42,KVpvE6pOPM9KMvak4HFsNg,$$,Pizzeria Libretto,"Pizza, Italian",Restaurants
+43,VRwT0pscR5vESCrAnUpNwQ,$$,Wilbur Mexicana,Mexican,Restaurants
+44,ZumOnWbstgsIE6bJlxw0_Q,$$$$,Jacobs & Co. Steakhouse,Steakhouses,Restaurants
+45,zA6gnF5aPBGoOm6uIbKt-A,$$$,Yuzu No Hana,"Japanese, Sushi Bars",Restaurants
+46,HkHTdTvzbn-bmeQv_-2u0Q,$$,Bannock,"Canadian (New), Breakfast & Brunch, Sandwiches",Restaurants
+47,BUcTdN-rNE8urCCQuxSOQA,$$,Mother's Dumplings,Chinese,Restaurants
+48,7oEKIG7d1ttPRejppZ3WIA,$$,Lady Marmalade,"Breakfast & Brunch, Mexican",Restaurants
+49,G24p1oGGfY3t-m8Z2lPCaQ,$$,Tinuno,Filipino,Restaurants
+50,XYIPXJ9parr9FtvvcGI1SA,$$,GB Hand-pulled Noodles,"Chinese, Noodles",Restaurants
+51,yY3jNsrpCyKTqQuRuLV8gw,$$$,Cactus Club Cafe,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+52,pSMK_FtULKiU-iuh7SMKwg,$$,Blaze Fast-Fire'd Pizza,"Salad, Pizza, Fast Food",Restaurants
+53,Qmwfg-PtYuCo5Q_IwcA_HQ,$$$,JaBistro,"Japanese, Sushi Bars",Restaurants
+54,RUd_M7DPJq1I3DPq0oF--w,$$,Lahore Tikka House,"Halal, Pakistani",Restaurants
+55,SW6ZQk22G1_CV81_gfnvNQ,$$,La Carnita,Mexican,Restaurants
+56,MhiBpIBNTCAm1Xd3WzRzjQ,$$,Messini Authentic Gyros,"Greek, Sandwiches",Restaurants
+57,wSojc-y-d7MWiGWdy8deCg,$$,Barque Smokehouse,"Barbeque, Smokehouse","Food,Restaurants"
+58,ttuEwktrkmh3TUlSFPZqAA,$,Banh Mi Boys,"Vietnamese, Asian Fusion",Restaurants
+59,vh1tPEaPioD78QmoqnWXpw,$$,Sukho Thai,Thai,Restaurants
+60,dAmVTQ6ukuLh4UxTmBoRkg,$$,Maha's,"Vegan, Egyptian, Sandwiches","Middle Eastern,Restaurants"
+61,LBHbyID7tcaGszznHtnCrw,$$,JOEY Eaton Centre,"Canadian (New), Lounges","Bars,Restaurants"
+62,4m_hApwQ054v3ue_OxFmGw,$$$,Patria,"Spanish, Tapas Bars, Wine Bars","Bars,Restaurants"
+63,cQK9M2JAwETQnnBoYyua5A,$$,The Senator,"Canadian (New), Wine Bars, Breakfast & Brunch","Bars,Restaurants"
+64,hDy-uY7Vy_TZdGBzw59lhA,$$,Saku Sushi,"Japanese, Sushi Bars",Restaurants
+65,HUYEadSbGSQNHXFmT2Ujjw,$,Manpuku Japanese Eatery,"Japanese, Noodles",Restaurants
+66,CN5nuUQod0f8g3oh99qq0w,$$,KINKA IZAKAYA ANNEX,"Japanese, Tapas/Small Plates, Pubs","Bars,Restaurants"
+67,C8_zdU7zGLUK3uC4e5AepQ,$$,MeNami,"Japanese, Asian Fusion",Restaurants
+68,Cp3YRVZojrCGeQS41Hf1pw,$,Pho Hung,Vietnamese,Restaurants
+69,9Eghhu_LzEJgDKNgisf3rg,$$,Scaddabush Italian Kitchen & Bar,"Beer, Wine & Spirits, Wine Bars, Italian","Food,Bars,Restaurants"
+70,Qa4eXuZ1IFPwnVXJcpZWtw,$$,Real Sports,"Canadian (New), Sports Bars","Bars,Restaurants"
+71,oWTn2IzrprsRkPfULtjZtQ,$$,The Burger's Priest,Burgers,Restaurants
+72,rxA9c0_XObabVL1WCTA4FA,$$,Sneaky Dee's,"Breakfast & Brunch, Tex-Mex, Bars","Nightlife,Restaurants"
+73,nHFJtud7jWZhM9dHQ1eIRA,$,Buk Chang Dong Soon Tofu,Korean,Restaurants
+74,piZ4JqJI5WTljJuQV7yZHQ,$$,KINTON RAMEN,"Noodles, Ramen","Japanese,Restaurants"
+75,O_UC_izJXcAmkm6HlEyGSA,$$,Playa Cabana,"Bars, Mexican","Nightlife,Restaurants"
+76,xaqW4NkmUCGRRjmLxiFJ6Q,$$,Muncheez,"Delis, Creperies",Restaurants
+77,L3R7y3_tUKQlM9kor4-Ccw,$$,Jamie's Italian,Italian,Restaurants
+78,_cjPEH9wXhKS-HQe_U3M4Q,$$$,Le Sélect Bistro,"Breakfast & Brunch, French, Coffee & Tea","Food,Restaurants"
+79,QFPS9JBNdOOHVP0C3pSslw,$$,Earls Kitchen + Bar,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+80,A7waf6G3cvnLfAqKeLL8DA,$$$,Buca,Italian,Restaurants
+81,fh8a_k9oslEDSHbmJLzUrQ,$,Kekou Gelato,"Desserts, Ice Cream & Frozen Yogurt",Food
+82,_u1Bq7QsgMUXSMex8QHqLQ,$,Burrito Boyz,Mexican,Restaurants
+83,O-b5osM0NO4f31dp6_DatQ,$$$,Nadege,"Macarons, Desserts, Patisserie/Cake Shop","Food,Specialty Food"
+84,UDk7qUVIetK3Y3NuARguqg,$$,Banjara Indian Cuisine,Indian,Restaurants
+85,OllK5_S-7svgSwbUfx1xYA,$$,King's Noodle Restaurant,"Barbeque, Chinese, Noodles",Restaurants
+86,q5xrVJ4kivx_yEfJeOKNYQ,$$$,Bar Isabel,"Spanish, Tapas Bars",Restaurants
+87,wNXw53wmePcf_V3rF18LUg,$$,Grazie Ristorante,Italian,Restaurants
+88,YLc7Djf3GsC8IT84YkZMzw,$$,Sukhothai,"Noodles, Thai",Restaurants
+89,jTZYireK6pnPb6Rni0jygw,$$,Wow Sushi,Sushi Bars,Restaurants
+90,3uIXuw878fNjxZ2Li1diFg,$$,The Hogtown Vegan,Vegan,Restaurants
+91,nu-DHeDtxnOW5vYj93dGPQ,$$,The Lakeview,"Canadian (New), Diners",Restaurants
+92,mBOIef7a4hONEbSi_ai8Bw,$$,Beast Restaurant,"Canadian (New), Breakfast & Brunch",Restaurants
+93,l-Zjik0MbpabQPv-nNp9YQ,$$,Sanremo Bakery,"Italian, Bakeries, Coffee & Tea","Food,Restaurants"
+94,4MQaqhBUJCpghGukSWNq7w,$$,Loose Moose,"Canadian (New), Gastropubs, Sports Bars","Bars,Restaurants"
+95,Uq-GOs9_IqweUsB5MdII9w,$$,Emma's Country Kitchen,"Comfort Food, Breakfast & Brunch, Bakeries","Food,Restaurants"
+96,JG9UpsFR6hrqQqsKh_RyaQ,$$$,Planta Yorkville,"Tapas/Small Plates, Pizza, Cocktail Bars","Bars,Restaurants"
+97,mzREMIknfmagJugibXrCsQ,$,Pho Tien Thanh,Vietnamese,Restaurants
+98,J9BmILDpV1Pr3GKU9XhjTQ,$$,Little India Restaurant,"Buffets, Indian",Restaurants
+99,mDA6_CDxdyQ-_qO5RHloow,$$,Marche Muvbox,Salad,Restaurants
+100,ejKXczjEkm1gzyRdblQm8w,$$,Fresh on Spadina,"Vegan, Juice Bars & Smoothies, Burgers","Food,Restaurants"
+101,eD-XLSo-j8uIoTnIlrG8YA,$,Juicy Dumpling,"Dumplings, Dim Sum","Chinese,Restaurants"
+102,2Q89PhkcyT9uZnQORmqMKg,$$,House of Gourmet,Chinese,Restaurants
+103,JOoblYsQjFT-47tkt6om0A,$$,7 West Cafe,"Breakfast & Brunch, Bars, Italian","Nightlife,Restaurants"
+104,qaNt4vtVdge_S68DVjw5Jg,$$,The Queen And Beaver Public House,"Pubs, British","Bars,Restaurants"
+105,hkZh4tAa2oJ34i8hxej6Zg,$$,The Gabardine,"Desserts, Breakfast & Brunch, Diners","Food,Restaurants"
+106,ABRgXNwdOX_JyqChNr8IYw,$$,Swatow Restaurant,Chinese,Restaurants
+107,SPj8L5VMep_OhkoNz-WLQg,$$$,The Chase,Seafood,Restaurants
+108,tJcpzXzykNSLuzWwa1JQUw,$,Queen St Warehouse,"Comfort Food, Bars, American (Traditional)","Restaurants,Nightlife"
+109,b4LmLgVdbhM-nc1IZc5Weg,$$$,Rodney's Oyster House,Seafood,Restaurants
+110,RyDiwx4xD3Lx8sWHx1aFlQ,$$,Smoque N' Bones,Barbeque,Restaurants
+111,saijdv-vXJrvsCfvr7SZOw,$$,Katsuya,"Japanese, Asian Fusion",Restaurants
+112,YJ05ntGlszxACOD5zn1YjA,$$,The Burger's Priest,Burgers,Restaurants
+113,CfxVkwEJk1NAqgqMSesLzA,$$$,KINKA IZAKAYA NORTH  YORK,"Japanese, Tapas/Small Plates, Pubs","Bars,Restaurants"
+114,4DLsC4BTUoEqFGusetQVlQ,$$,La Carnita,Mexican,Restaurants
+115,fQwB9Z98YEhkJit7c3z51A,$$$,The Carbon Bar,"Barbeque, Bars, American (Traditional)","Nightlife,Restaurants"
+116,TR0-w6VoZDAdvFQiq7P2Ug,$,Millie Creperie,"Japanese, Desserts, Creperies","Food,Restaurants"
+117,O66Zy8Y13VBm72ZDhS4fIg,$$$,Sassafraz,French,Restaurants
+118,DizSoX0FqH_EvXSHW6wEIQ,$$,Le Petit Déjeuner,"Breakfast & Brunch, Belgian",Restaurants
+119,1cGgVvEbuBlW2GDvJ112vA,$$$,Gyubee Japanese Grill - Markham,"Japanese, Barbeque",Restaurants
+120,TFftsYkRIUtdo6ZhRwJ2lQ,$$,Terroni,"Pizza, Italian",Restaurants
+121,jCzrbfboRc3D-9_Gr0Wm9w,$$,SongCook's,Korean,Restaurants
+122,c35qzLN6ItDpVIoj2uQW4Q,$$,Ravi Soups,"Sandwiches, Soup",Restaurants
+123,kGOr_D-LNpgZ2M9N8TT4QQ,$$$,La Société,French,Restaurants
+124,BY0o4pOtNPKyTklTFXDJpg,$$,Dineen Coffee,Coffee & Tea,Food
+125,GTwQgfi8DN23D9fMURYUdw,$$,Sushi Moto,"Wine Bars, Sushi Bars","Bars,Restaurants"
+126,dp9haMgS5RZ6i1kQq_oS5A,$$,Fran's Restaurant,"Breakfast & Brunch, Diners, American (Traditional)",Restaurants
+127,tvYID0arhN-shKGUrC1Wsg,$$$,Copacabana Brazilian Steak House,"Steakhouses, Brazilian",Restaurants
+128,q9_gLvTNf11etVxbH7JY0Q,$$$$,Yasu,"Japanese, Sushi Bars",Restaurants
+129,-ICGmF2qUVKdvOehVNgPbg,$$,Lamesa Filipino Kitchen,Filipino,Restaurants
+130,zfQ855VX3SMA_54oVSN5Cw,$$,Fresco's Fish & Chips,"Chicken Wings, Fish & Chips, Sandwiches",Restaurants
+131,35SEr0cPTuoBJ1DYQ686pA,$$,Katsuya,Japanese,Restaurants
+132,8MWiywu09bhLWIpzVaD4gw,$$,Aunties & Uncles,Breakfast & Brunch,Restaurants
+133,iMoFE2g4kDG4FfKLJvk3Jw,$,Buk Chang Dong Soon Tofu,Korean,Restaurants
+134,fNc1WuGwiT7RhqXUIe4S8A,$$,Sabai Sabai Kitchen and Bar,"Thai, Bars, Laotian","Nightlife,Restaurants"
+135,uthbVCNZqmExJTzhII9iNQ,$$,Paramount Middle Eastern Kitchen,Middle Eastern,Restaurants
+136,5aeOewSy4RiI8sLLWpeNGA,$$,Pablo Cheesetart Canada,Desserts,Food
+137,fJ-2acaqvWOsujUTAJB-ew,$$,Raijin Ramen,"Noodles, Soup, Ramen","Japanese,Restaurants"
+138,9ot8oInkYZTt6wkkGe__vQ,$$$,Auberge du Pommier,French,Restaurants
+139,BYDs_o6U4CLxJec8k1Q90Q,$$,Poke Guys,"Poke, Hawaiian","Food,Restaurants"
+140,hlrZHM4D48XiQtXh6cRg_w,$$,The Old Spaghetti Factory,Italian,Restaurants
+141,lyIHmlIK7PKwQeGyR8svJQ,$$,Cafe Crepe,"Breakfast & Brunch, Creperies, Coffee & Tea","Food,Restaurants"
+142,Orgm9nmcClxnAUva4nOKyA,$$,Hothouse,"Bars, Italian, Venues & Event Spaces","Event Planning & Services,Nightlife,Restaurants"
+143,cPXasVLtq_1gmuSg65TUfQ,$$,Dragon Pearl Buffet,"Buffets, Chinese",Restaurants
+144,bRntmjztJ4dFDA_LYiEECw,$$,Snakes & Lattes Annex,"Cafes, Bars","Restaurants,Nightlife"
+145,WKOUTdVJS58E178JjhwidQ,$$,Pastel Creperies & Dessert House,"Desserts, Creperies, Coffee & Tea","Food,Restaurants"
+146,tzl4KHt6ZAwyUJIEyemrtQ,$$,Smith Bros.,"Steakhouses, Bars","Nightlife,Restaurants"
+147,Bf2fuqWbHd3L-X69FSMvmg,$$,El Trompo Taco Bar,Mexican,Restaurants
+148,lDpVyjENOz_qbxbRoyBi8w,$,Black Camel,Sandwiches,Restaurants
+149,D-8yidw7FLKKQpciKJSd2g,$$,The Burgernator,Burgers,Restaurants
+150,uF86ZhygpBEGr3CudNemYA,$$$,O.Noir,Canadian (New),Restaurants
+151,-J6FVdY9pSgAdFmmalO-pQ,$$,Jatujak,"Thai, Food Delivery Services","Food,Restaurants"
+152,dw2ST-AHUbu2xq0QNfngBA,$$,JOEY Don Mills,"Canadian (New), Lounges","Bars,Restaurants"
+153,xwmwTpzw9XSwK-UT5Ka3HQ,$$,Bellwoods Brewery,"Canadian (New), Breweries","Food,Restaurants"
+154,sXg2NCfiCqK_X_4R5NK_jQ,$$$,BarChef,"Lounges, Cocktail Bars",Bars
+155,QNfh79NwsNnl-AngRhg2ww,$$,Kingyo,"Japanese, Tapas/Small Plates",Restaurants
+156,VA95qAV2PRH9gtTi2Vfv4Q,$$,Trattoria Nervosa,"Salad, Pizza, Italian",Restaurants
+157,9tfw-OEfpF0qC2hSzRks6g,$$,Hair of the Dog,"Pubs, Comfort Food, Breakfast & Brunch","Bars,Restaurants"
+158,fN_I3jP7RD2llubTvhXtKQ,$$,Good Fork,Canadian (New),Restaurants
+159,ICFYlS9nwsoAyaiRXMu9tQ,$$,Fuwa Fuwa Japanese Pancakes,"Desserts, Breakfast & Brunch, Coffee & Tea","Food,Restaurants"
+160,5nyKUHibR4GCs6ojVljFdA,$$,Spring Sushi,"Japanese, Asian Fusion, Thai",Restaurants
+161,Pthcdg09sHQ9M9Tj5P9gfQ,$$,C'est What,"Canadian (New), Music Venues, Breweries","Arts & Entertainment,Food,Restaurants,Nightlife"
+162,RqOgBMpKYdsEOmBVmFXe3g,$$,Ryus Noodle Bar,Ramen,Japanese
+163,1_rqZz1K5Uoq2RvZlINfgA,$$,Cho Sun Ok,Korean,Restaurants
+164,67Pa_CtXthgJzXfY8JzLDQ,$$,Holy Chuck,Burgers,Restaurants
+165,g6AFW-zY0wDvBl9U82g4zg,$,Baretto Caffe,"Cafes, Italian",Restaurants
+166,FML0YqZ7dLBBC3Suap4_4Q,$$,416 Snack Bar,"Tapas/Small Plates, Bars","Nightlife,Restaurants"
+167,j0aiaJkrU-5VgbCsdx-txg,$$,Chris Jerk Caribbean Bistro,Caribbean,Restaurants
+168,uChTCA6MsLAciDRklpO-Fw,$$,Makkal Chon,Korean,Restaurants
+169,c6f8wBjPLDzyubEBqgcMnw,$$,Fahrenheit Coffee,Coffee & Tea,Food
+170,wpQsmMvdhefqIlxvRt_Jbg,$$,DonDon Izakaya,"Japanese, Tapas Bars",Restaurants
+171,5N8R7ALESZ30EoAzVJtabw,$$,The Dirty Bird Chicken + Waffles,"Chicken Shop, Burgers, Waffles",Restaurants
+172,m3U4Pey_Yr0jgJb8MHfy5g,$,Rasta Pasta,Caribbean,Restaurants
+173,qvxpoQE5qwbZpuSGJzLK4Q,$$,iHalo Krunch,Ice Cream & Frozen Yogurt,Food
+174,ZDDzKXN_JXe7694zePRuTQ,$$,Chatime - Dundas,Coffee & Tea,Food
+175,SxvKjtbq5qRlFoXrU8Bo9Q,$$,Descendant Detroit Style Pizza,Pizza,Restaurants
+176,g3t2AQQVT2tWD64Huu7xVA,,Royal Ontario Museum,Museums,Arts & Entertainment
+177,-OxDX2fPQLYi6ChW2Z6xxQ,$$,Fresh On Bloor,"Vegan, Juice Bars & Smoothies, Salad","Food,Restaurants"
+178,RrqcZLX05djKo1GVLMXMDQ,$$,Korean Village Restaurant,Korean,Restaurants
+179,tCjlXROlbcaGiBRfU2jaiw,$$$,The Keg Steakhouse + Bar - Mansion,"Steakhouses, Seafood, Bars","Nightlife,Restaurants"
+180,oKZPgeCOxnVSxudYcn1OtQ,$$$,Cibo Wine Bar,"Wine Bars, Italian","Bars,Restaurants"
+181,bYGn37k0KgleABKMWgjnMw,$,El Furniture Warehouse - Bloor St,"Comfort Food, Bars, American (Traditional)","Nightlife,Restaurants"
+182,fqBnZxSkG287OOyU9LvTig,$$,Bar Hop,Bars,Nightlife
+183,GcxE5hK_TaHP4EZFDYz2mg,$$$,Copacabana Brazilian Steakhouse,"Steakhouses, Brazilian",Restaurants
+184,C6vH0qzmcerMkiJy3VO9qA,$$$,Estiatorio VOLOS,"Greek, Mediterranean, Seafood",Restaurants
+185,8I2XBrjf4rOEWx7pnKpVeg,$$,Kub Khao Thai Eatery,Thai,Restaurants
+186,pOEL97ld-FJMKO8Ki8JmYg,$$,Oliver & Bonacini Café Grill,Italian,Restaurants
+187,Mksyt1TZQ-7vzCZjeuzfAg,$$,CASA manila Restaurant,Filipino,Restaurants
+188,eZaCQPZYmETSNiHRagNu2g,$$,Wanda's Pie In The Sky,"Desserts, Bakeries, Coffee & Tea",Food
+189,KS_d3F_eIA6iTo6Wtj2O_w,$$,Smoke's Poutinerie,"Fast Food, Poutineries",Restaurants
+190,OIdOJaNS8M624F58XGV3PQ,$$,Pizzeria Libretto Danforth,"Pizza, Italian",Restaurants
+191,Jo3Cpvf8fpfcAIFG3TagbQ,$$,Pantheon Restaurant,"Greek, Mediterranean",Restaurants
+192,xFkUn2tIJY0vkcm1Hl5m_A,$$,Wahlburgers,"Burgers, American (Traditional)",Restaurants
+193,d6G0w_e3GaA90NSQeovShA,$$,Pho Rua Vang Golden Turtle,Vietnamese,Restaurants
+194,3glVZZh_vyZH1VvPU0307A,$$$,Enoteca Sociale,Italian,Restaurants
+195,s4c_f9WwcolJTNitq2gWpQ,,Casa Loma,Museums,Arts & Entertainment
+196,c78Pat78fVUBFPXYeVvbaQ,$$,Odd Seoul,"Dive Bars, Asian Fusion, Korean","Bars,Restaurants"
+197,7v91woy8IpLrqXsRvxj_vw,$$,Old School,"Breakfast & Brunch, American (Traditional)",Restaurants
+198,A5lD3y2eREchEdMcvWPXBA,$$,Yin Ji Chang Fen,Chinese,Restaurants
+199,XT25YpQoNDuzAZHur-HZ8g,$$,Pizzeria Libretto,"Pizza, Italian",Restaurants
+200,i1Xkm22_96GNVVOXSUoL0A,$$$,The Captain's Boil,"Cajun/Creole, Asian Fusion, Seafood",Restaurants
+201,28adZ4lsuUeVB2aWzohK9g,$$,Prohibition Gastrohouse - Queen,"Bars, American (Traditional)","Restaurants,Nightlife"
+202,PUneCUDGvdgnay3uvI89fA,$,Sushi Bong,"Japanese, Sushi Bars",Restaurants
+203,XtJbDZODXi3mXHLoScGtwg,$$,Piggy's,"Barbeque, Korean, Soup",Restaurants
+204,5r6-G9C4YLbC7Ziz57l3rQ,$,Poutini's House of Poutine,"Fast Food, Poutineries",Restaurants
+205,RADloW1UROUn4FJFU4JJNg,$$,Buster's Sea Cove,Seafood,Restaurants
+206,2auigv5pF08RjJ8CL1dIVw,$$,O&B Canteen,"Comfort Food, Breakfast & Brunch, Sandwiches",Restaurants
+207,bsFZnc2mYyGy5cFf5EWTWg,$$,Aji Sai Japanese Restaurant,Japanese,Restaurants
+208,ALkOqlWODyxPg5VSp0HLrg,$$$,Zakkushi On Carlton,Japanese,Restaurants
+209,lOKgoQtMhnlf6hWvrOiMtQ,$$,JOEY Yorkdale,"Canadian (New), Lounges","Bars,Restaurants"
+210,_Gv5HPQBM3fzI9bOUYFYuw,$$,The House On Parliament,"Gastropubs, British",Restaurants
+211,SCklYa_jhihWAcfIn-_chg,$$,Bonjour Brioche,"Breakfast & Brunch, French",Restaurants
+212,769NudnrUxWFtJCGU66A_A,$$,Thompson Diner,"Canadian (New), Breakfast & Brunch",Restaurants
+213,Yv4P4qUwd7F-qQ4Y4eD1JQ,$$,Han Ba Tang,"Korean, Bars","Nightlife,Restaurants"
+214,_T7f2wUgNlJqxsR-cR89SQ,$$$$,Scaramouche Restaurant Pasta Bar & Grill,"Bars, French","Nightlife,Restaurants"
+215,o6Yor6ofIw2TqM3mN28Kzg,$,Tacos El Asador,"Latin American, Mexican",Restaurants
+216,3xUoXuEgJhHlSgBsSfKeCQ,$$,W Burger Bar,"Burgers, Breakfast & Brunch, Bars","Nightlife,Restaurants"
+217,4twpbw7n4DmsLxAm6-sMkg,$,Seor Ak San,Korean,Restaurants
+218,j_hB9Gt3VMJAbA2JyvyFjw,$$,Wish,"Canadian (New), Lounges, Breakfast & Brunch","Bars,Restaurants"
+219,s-YJpfR-LFRnH7qYVFuJuw,$$,Touhenboku Ramen Restaurant,"Desserts, Ramen","Japanese,Food"
+220,ovnqQaQ8BsPgDoJ4nlYBUw,$,Bakerbots Baking,"Desserts, Ice Cream & Frozen Yogurt, Bakeries",Food
+221,59c3Cp-p5i18xFCKUuCkFQ,$$,La Vecchia Ristorante,"Seafood, Italian, Venues & Event Spaces","Event Planning & Services,Restaurants"
+222,cFyXbPxTAwKRlIqe-XLMcw,$$,STACK,Barbeque,Restaurants
+223,XOkqRJBS6HwTVlrCACAZFw,$$,Queen Mother Cafe,"Asian Fusion, Thai",Restaurants
+224,L-Yj3Y1bYKTSg4uE9KTVBw,$$,Adamson Barbecue,Barbeque,Restaurants
+225,A7_Rhwhi5Xv_PvBbKGJ_ng,$$,Pho Metro,Vietnamese,Restaurants
+226,UYop9KYT-_mJsc2bcH83jw,$$,The Pickle Barrel,Canadian (New),Restaurants
+227,d4P7boUqiA2pR59jOlzYLA,$$,Assembly Chef's Hall,Food Court,Restaurants
+228,fK1oj0dk9Bc6KsBk5mMDxg,$$,Playa Cabana Cantina,Mexican,Restaurants
+229,F-bdXFkJwwENiNpMTG2ntQ,$$,The 3 Brewers,"Pubs, Breweries","Food,Bars"
+230,vx2T3IspTj6Opxjn95xWRA,$$,Portland Variety,"Cafes, Bakeries, Tapas/Small Plates","Food,Restaurants"
+231,U4iqELk1IiqARpk5uJJOZg,$$,Eva's Original Chimneys,"Desserts, Ice Cream & Frozen Yogurt, Bakeries",Food
+232,EEIz44ewHhOKmfTloAK13g,$$$$,Alo Restaurant,"Bars, French","Restaurants,Nightlife"
+233,exysqt4RqxkF9I8Z2NEUsQ,$$,King Taps,"Canadian (New), Lounges, Breakfast & Brunch","Bars,Restaurants"
+234,KrwGJBrSE3kN721yx-MzfQ,$$,KINTON RAMEN,Ramen,Japanese
+235,7ODXq--HE7QpzvWwgk5rMA,$$$,Barberian's Steak House,Steakhouses,Restaurants
+236,3uOxuJUnx72b86-3NKhX0A,$$,Kyoto House Japanese Restaurant,Japanese,Restaurants
+237,fpuyZ31OpX11UlJGFWKoNw,$$,Ramona's Kitchen,"Breakfast & Brunch, American (Traditional)",Restaurants
+238,sePTDv1dGHPID7kwuNzXaA,$,Sam's Congee Delight,Chinese,Restaurants
+239,QF4tRJ-ot7dYwebAsn0seg,$$,Mengrai Thai,"Noodles, Thai",Restaurants
+240,0-k_-9YoWXpmtiaLdKeQJQ,$$,The Rec Room,"Canadian (New), Arcades, Bars","Arts & Entertainment,Restaurants,Nightlife"
+241,mspZuHQ8rVXpyVMqQIKw_A,$$,Shiso Tree Cafe,"Japanese, Coffee & Tea","Food,Restaurants"
+242,I6oxEn1HT41S2GPrDKPPvA,$$,Perfect Chinese Restaurant,"Seafood, Dim Sum","Chinese,Restaurants"
+243,-BbnAc9YEO6pjvJGEtFbVQ,$$,Sansotei,Ramen,Japanese
+244,eQel7bUz75j0AVKnfsillg,$$,Korean Grill House,Korean,Restaurants
+245,bZgfnQtLXly82_XmLBqOwQ,$$,Wayne Gretzky's,"American (Traditional), Sports Bars","Bars,Restaurants"
+246,41o1FUbCYKJv2djtnlkzlg,$$$,Bar Raval,"Spanish, Tapas/Small Plates, Cocktail Bars","Bars,Restaurants"
+247,GqSA5t_OD1uxDZMwVLpoXA,$$$,Marben,"Canadian (New), Gastropubs",Restaurants
+248,b7wUWVV01xaa7E0FUNMDiw,$$$,DaiLo,"Chinese, Asian Fusion",Restaurants
+249,N0l4hT7UCywbZ9UEZ1R9kQ,$$,Patois Toronto,"Chinese, Caribbean, Asian Fusion",Restaurants
+250,_5izyrn1qV0uyec65UsdIA,$$,Local Liberty Village,"Breakfast & Brunch, Sports Bars","Bars,Restaurants"
+251,Rh2smrKvcamnP8VBUgMI0Q,$$,Dim Sum King Seafood Restaurant,Dim Sum,Chinese
+252,27_N5P9HZ86IviONPT_twg,$$$,Woodlot Restaurant,"Vegetarian, Comfort Food, Canadian (New)",Restaurants
+253,XD0LjNuPPwJPsTAHecUh7A,$$$,Terroni,Italian,Restaurants
+254,PiLfiQYyDNgBaAvSL58cqg,$,Okonomi House Restaurant,Japanese,Restaurants
+255,5fg-RNWNbqyGn8b8wqe4QQ,$$,168 Sushi Asian Buffet,"Buffets, Asian Fusion, Sushi Bars",Restaurants
+256,jpOLEg5CrGrLNn5pMhWzmg,$$$,Spice Route Asian Bistro + Bar,"Asian Fusion, Bars","Nightlife,Restaurants"
+257,AUv2UoAAi7VASJ6VK5lOlw,$$,Kensington Market,"Local Flavor, Farmers Market, Used, Vintage & Consignment","Food,Fashion"
+258,He_4k_w_8bjWnoepahS2zw,$$,Petit Potato,"Japanese, Taiwanese",Restaurants
+259,kYD9E14AijONhJ7rFsyLrg,$$,The Elm Tree Restaurant,"Mediterranean, Modern European",Restaurants
+260,9XcWAcp1dCpcLcHTBENn-Q,$$,Gourmet Malaysia,"Singaporean, Indonesian, Malaysian",Restaurants
+261,jCiovc2qHJ5L-_1gigLueQ,$$$,Weslodge Bar & Grill,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+262,rhyjGfqYlCJoi8Zeulg6QA,$$,Kimchi Korea House,Korean,Restaurants
+263,Zq9WPT7ZAOYlQ0GV8OQWKQ,$$,Cluck Clucks,"Chicken Shop, Comfort Food, Sandwiches",Restaurants
+264,t1mR_Zff6Dqv1TueE2JLEA,$$$,The Sultan's Tent & Cafe Moroc,"Mediterranean, Moroccan, Breakfast & Brunch",Restaurants
+265,gy5pr5bFAjOL5rERSdMCLg,$$$,The Keg Steakhouse + Bar,"Steakhouses, Seafood, Bars","Nightlife,Restaurants"
+266,4_EgrMY-EI-i-xyWixI2qg,$,Mystic Muffin,"Coffee & Tea, Sandwiches, Middle Eastern","Food,Restaurants"
+267,sRirP65Q7BSg3Lj9FdkKWQ,$$,Gandhi Cuisine,Indian,Restaurants
+268,e6UDJBEIoXBbnXtdwkqIGA,$$,Hot-Star,"Chicken Wings, Taiwanese, Fast Food",Restaurants
+269,a911y0BuV1rjHXkXlFm3Ig,$$,EAT BKK Thai Kitchen,"Noodles, Thai",Restaurants
+270,ovlWOSKVjGecnaPuZLv_OQ,$$,Crown Princess Fine Dining,Dim Sum,Chinese
+271,Sk0Ycurq7D083Qs8x65b_Q,$$$$,George,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+272,9ET_RUNztevq4_OLAX80Gg,$$$$,Café Boulud,"Desserts, Cafes, French","Food,Restaurants"
+273,EK38MXW_OsC5CZVvIZodIw,$,Fugo Desserts,"Ice Cream & Frozen Yogurt, Donuts",Food
+274,2S9t90Q0qZWCV7X_u0rxZQ,$$,Kenzo Ramen,Ramen,Japanese
+275,tTzQZTrwBgwxMch77nCJfQ,$$,Hibiscus,"Vegan, Vegetarian, Gluten-Free",Restaurants
+276,BrGs6OGqqtKqaLuxoMySBg,$$,Hanabusa Cafe,"Desserts, Coffee & Tea",Food
+277,_l3nxDFpmLUMxCQrz1LfBQ,$$,Early Bird Coffee & Kitchen,"Breakfast & Brunch, Coffee & Tea","Food,Restaurants"
+278,CZY3743GpOOhdDJu6UmPBA,$$,Bar Buca,"Breakfast & Brunch, Bars, Italian","Restaurants,Nightlife"
+279,6f2imTsIysASgHh2t91OOQ,$$,AKA-ONI Izakaya,"Japanese, Asian Fusion, Sushi Bars",Restaurants
+280,4_L9bnIvY8TLDfiTBGcnRA,$$,Daldongnae,"Barbeque, Korean",Restaurants
+281,F9tePBgROEAcd8xZqTZUfg,$$,Jollibee,Filipino,Restaurants
+282,g-nzfTvso3-4c4gkhkmGbQ,$$,Frankie Tomatto's,"Buffets, Pizza, Italian",Restaurants
+283,qPVqfJAzC8APF8aWGBtFRA,$$$,Antler Kitchen & Bar,Canadian (New),Restaurants
+284,3gdjVkNeUa9piW9H708Aig,$$,The Olde Yorke,"British, Seafood, Fish & Chips",Restaurants
+285,yV7f80Nw8nJGilZpRnS6HQ,$$,Dark Horse Espresso,Coffee & Tea,Food
+286,Py97oycFokZ296KJ2Pe-hQ,$$,Williams Landing Bar Grill Hub Restaurant,"Canadian (New), Comfort Food, Bars","Nightlife,Restaurants"
+287,Ibp4hEKSE8JaX9OvfEiFqg,$$,Otto's Berlin Döner,"Bars, Sandwiches, German","Nightlife,Restaurants"
+288,dTuT_G3Zp79RZmnF3oxfiA,$$,The Bier Markt,"Beer, Wine & Spirits, Canadian (New), Bars","Food,Restaurants,Nightlife"
+289,xL9EhlYVMSe2mdkisYjXog,$$,The Halal Guys,"Halal, Middle Eastern",Restaurants
+290,zIfCWjZ0RAe8YVMSPZdOdA,$$$,Pure Spirits Oyster House & Grill,Seafood,Restaurants
+291,uFTcyheegHAdRobLf_4Siw,$,Magic Noodle,Chinese,Restaurants
+292,QaxDKkqYTtVYZJcqBNTnvQ,$$,Yummy Yummy Dumplings,"Chinese, Dumplings, Soup",Restaurants
+293,ts_kVtBEAJsdmdoqxRDdRQ,$$,Tabule Restaurant,"Vegan, Vegetarian, Middle Eastern",Restaurants
+294,wcR9Vbwn2EmlSeV7uBUIsA,$$,Hemingway's Restaurant,"Bars, American (Traditional)","Restaurants,Nightlife"
+295,eKznX8VTfcQrjCqXpeobiw,$$,Rasa,"Canadian (New), Tapas/Small Plates",Restaurants
+296,Dv0OHpQSL4hOGl2KAEVvlA,$$,Jack Astor's Bar & Grill,"Canadian (New), Burgers, Sports Bars","Bars,Restaurants"
+297,s7Pj1mNYqRTGNOXLOiBafw,$$$,Figo,Italian,Restaurants
+298,aLTpnF4xG3KA5trMilgChQ,$$,Ni Ji Sushi,"Japanese, Sushi Bars",Restaurants
+299,Ycp3Agr7dt71TZkeKV7jng,$$,Le Gourmand,"Breakfast & Brunch, Cafes, Coffee & Tea","Food,Restaurants"
+300,ZxrWn3v1ZVX9SC_ObbfpHQ,$$$,Ruby Watchco,Canadian (New),Restaurants
+301,W7Ua8ELRMm3IPd23fp7XjA,$$,Matsuda Japanese Cuisine,Japanese,Restaurants
+302,-chGaXHZsoLKLHPJMMsdmw,$$,Utopia Café & Grill,"Burgers, Tex-Mex",Restaurants
+303,zW600wCsIlC2w5SQBNAo_w,$$,Hub Sushi Fusion Japanese Restaurant,"Japanese, Asian Fusion, Sushi Bars",Restaurants
+304,e178giuAicIhb16ymOtiBg,$$$,R&D Restaurant,"Asian Fusion, Chinese",Restaurants
+305,FUqvrauxIP8bcI2aVeoXdg,$$,Kit Kat Italian Bar & Grill,"Mediterranean, Italian",Restaurants
+306,pdE-moDQznZL4sUX-jGKdA,$$,Farmhouse Tavern,Canadian (New),Restaurants
+307,EzC51yOetmrju2DPP72iRA,$$,Hakata Shoryuken,Ramen,Japanese
+308,aRqxT28Tdz2aDiZ7Vkyejw,$$,White Brick Kitchen,"Comfort Food, Breakfast & Brunch",Restaurants
+309,W5d8iNog90R-qw43m5dGwg,$$,Café Polonez,Polish,Restaurants
+310,XrcB7Of1KfHlkeXYpHLIrw,$$,Tibet Kitchen,Himalayan/Nepalese,Restaurants
+311,1xB0Qf2-TN6CQ5c4Fh7vqg,,Taiyaki NYC - Toronto,"Japanese, Desserts, Ice Cream & Frozen Yogurt","Food,Restaurants"
+312,qztZIyt2BMSKfX052OgKXQ,$$,Against the Grain,Canadian (New),Restaurants
+313,bzMO8LJmJtgo3KuyWGKUxA,$$,Homemade Ramen,"Chinese, Noodles, Ramen","Japanese,Restaurants"
+314,xYeLEIWbG0IBnMGU2mWUBg,$$,Chako,"Sushi Bars, Asian Fusion, Korean",Restaurants
+315,r49iBfbnfoK7yt4rdsL_7g,$$,Fushimi,"Japanese, Sushi Bars",Restaurants
+316,i7WdEjPrZkzo7whKd-PufQ,$$,Dave & Buster's,"Arcades, Bars, American (Traditional)","Arts & Entertainment,Nightlife,Restaurants"
+317,y-Iw6dZflNix4BdwIyTNGA,$$,Indie Ale House,"Gastropubs, Pizza, Breweries","Food,Restaurants"
+318,5foBHyoMbLFanSck9Zp2PQ,$,Pho 88 Vietnamese Restaurant,Vietnamese,Restaurants
+319,AFF2vsQmRT4L22AvUsit-Q,$$,Doomie's Toronto,"Vegan, Vegetarian",Restaurants
+320,ZilzayEdyk70SoI-wruJbg,$$,Congee Queen,Chinese,Restaurants
+321,W2NzlS8OJzGfDfr9oRz11Q,$$$,Drake One Fifty,"Breakfast & Brunch, American (Traditional), Cocktail Bars","Bars,Restaurants"
+322,p3qjmdZZFEMOTWJjmdTa3Q,$,Arctic Bites,Ice Cream & Frozen Yogurt,Food
+323,_81fRJ9m8Fn1s8ixPun46A,$$,Union Social Eatery,"Gastropubs, Burgers, Barbeque",Restaurants
+324,e_ILiIs2pVpskfeL-zFtTw,$$$,Leña Restaurante,"Spanish, Latin American, Cocktail Bars","Bars,Restaurants"
+325,57_msr8gjNakjGO-1f6B_g,$,Angus Pho House,"Vietnamese, Asian Fusion",Restaurants
+326,jluEI1ZDQDeJlbl-M3YH3Q,$$$,Toula,"Wine Bars, Italian","Bars,Restaurants"
+327,2i0dDzxLuQQAwzxDZVR-1g,$$$,Oretta,"Bars, Italian","Nightlife,Restaurants"
+328,Bo9uuPiAsq_z02eb87N41g,$$,Sushi Legend,"Japanese, Asian Fusion, Sushi Bars",Restaurants
+329,4POPYEONJpkfhWOMx_PyGg,$$$$,Harbour 60,"Steakhouses, Seafood",Restaurants
+330,68PJJkcq_i0SlLqO6t7Qxw,$$,Asian Legend,Dim Sum,Chinese
+331,F_oPMHJrH42R67xp5eKtQA,$,Yummy Korean Food Restaurant,Korean,Restaurants
+332,cisqOxAgQPjVVr9Yzk8_dw,$$,Bake Code  - North York,Bakeries,Food
+333,ubDO6BYjnPSIZIpWxXGdlQ,$,Karine's,Breakfast & Brunch,Restaurants
+334,j28T6ZuP1mLHe3m36COOpQ,$$,DaanGo Cake Lab,"Macarons, Desserts, Bakeries","Food,Specialty Food"
+335,1SknhuCmaR0PIIjQY3e6eg,$$,The Burger's Priest,Burgers,Restaurants
+336,AVLj5MSJD1si-Rl6X6qTXQ,$$,Rosewood Asian Cuisine,"Chinese, Pizza, Sushi Bars",Restaurants
+337,Dpl8d6eXq-YnF5zEV1cwMw,$$,Poop Cafe,"Desserts, Cafes, Ice Cream & Frozen Yogurt","Food,Restaurants"
+338,5tQSJ2sed3Ln-1S1rbIFoQ,$,Moon Bean Coffee Company,"Coffee Roasteries, Coffee & Tea",Food
+339,Vg4N2DsGrzzoam9jS1L3Wg,$,Johnny's Hamburgers,Burgers,Restaurants
+340,ocLnCE2E29j-CoBQj1yaSA,$$,Cafe Landwer,"Breakfast & Brunch, Cafes",Restaurants
+341,CsS9WsonGYyE3vINi5bxSg,$$,Barrio Coreano,"Korean, Mexican",Restaurants
+342,vqgfQqPiLw6ghdVgpZ_vJQ,$$,Jack Astor's Bar & Grill,"Canadian (New), Burgers, Sports Bars","Bars,Restaurants"
+343,5dy8OiWJty9AuxBcBzeBZQ,$$$,Piano Piano,"Pizza, Italian",Restaurants
+344,KWojrEKjUqHCRI5HO7pB4g,,Art Gallery of Ontario AGO,Art Museums,Museums
+345,dd3GZs6zW2t7BM0cbxAzvg,$$$,La Palette,"Desserts, Bars, French","Food,Nightlife,Restaurants"
+346,eQCYur0033RkZdh5VjbF8A,$$$,Oliver & Bonacini Café Grill,"Canadian (New), Wine Bars, Breakfast & Brunch","Bars,Restaurants"
+347,aCQbOhehLeej31x6EMY5eQ,$$,Spring Rolls,"Asian Fusion, Sushi Bars, Thai",Restaurants
+348,qlPyuJ77Znjh30I2kTs1xQ,$$,Le Cafe Michi,"Japanese, Sushi Bars",Restaurants
+349,ofw8aDSEg1HoQdmCgvLtaQ,$,The Pie Commission,"Canadian (New), Fast Food, Do-It-Yourself Food","Food,Restaurants"
+350,gOBxVkHpqtjRRxHBIrpnMA,$$,Chipotle Mexican Grill,"Fast Food, Mexican",Restaurants
+351,EhGPj8iJDIdaHnWg9d5BgA,$$,Pearl Harbourfront Chinese Cuisine,"Noodles, Seafood, Dim Sum","Chinese,Restaurants"
+352,y769FA7VJOW4QQYdYlR62A,$$,Levetto,"Salad, Pizza, Italian",Restaurants
+353,T7yKffTuhiIZclsgjfgowA,$$,Pizzeria Via Mercanti,"Pizza, Italian",Restaurants
+354,8716XDB7zw_gBfXg0EBZEQ,$$,Memphis BBQ,"Barbeque, American (Traditional)",Restaurants
+355,sCPNcNxYuTnTdlAZohMyQg,$$,Museum Tavern,American (Traditional),Restaurants
+356,FyAioPDhzS5IP4a4SXeG-Q,$$$,Kasa Moto,"Japanese, Sushi Bars",Restaurants
+357,UJevx59U-bi6fRADCSa7LQ,$$$,Luma,"Canadian (New), Lounges","Bars,Restaurants"
+358,9NMKFyr3Cw5wt_mlqv3U1g,$$,JINYA Ramen Bar,Ramen,Japanese
+359,mES9E5K4HbYoPFXGv0pUuw,$,Como En Casa,Mexican,Restaurants
+360,DIVF4oo86EGupm5CC60sZg,$$,Hunters Landing Bar Grill Hub Restaurant,"Canadian (New), Comfort Food, Bars","Nightlife,Restaurants"
+361,-ltD-dHqdZ5-wjAMKYa6Ng,$$,La Bella Managua,"Latin American, Nicaraguan",Restaurants
+362,kw8Lh8bJAtquHkT9CB4zGg,$,Future Bistro,"Breakfast & Brunch, Sandwiches",Restaurants
+363,cefRDEK5O3t_iUuwnmL27Q,$$,Smith,"Canadian (New), Breakfast & Brunch, Bars","Nightlife,Restaurants"
+364,T4g4k2OhCTsiqcP-ZXElHQ,$$,Jules Bistro,French,Restaurants
+365,N8jmyJCk-LjO9o1K9UjxNA,$$,Harlem Underground,"Cajun/Creole, Southern, Soul Food",Restaurants
+366,B4-2wA8Pj8MQK1Ylymypqg,$$,Sunny Morning,Breakfast & Brunch,Restaurants
+367,Q2ZNaN3p8s_-XXjBWyY2qA,$$$$,Ruth's Chris Steak House,"Lounges, Steakhouses, Seafood","Bars,Restaurants"
+368,h8vVxwP6FnlkRDONKBHT-w,$$,Chubby's Jamaican Kitchen,Caribbean,Restaurants
+369,E9b73ETPw0VYUJ2_YSJJdQ,$$,Pizza Rustica,"Pizza, Italian",Restaurants
+370,bLtC8xJXkd1b6MT0KjnSvw,$$,The Captain's Boil,"Cajun/Creole, Asian Fusion, Seafood",Restaurants
+371,FnQ-_pGdw11za0LQ_aORxQ,$$,0109 Dessert & Chocolate,"Desserts, Chocolatiers & Shops","Food,Specialty Food"
+372,Pprj3lMHpSm_Q1Lw_j4xdQ,$$,Woody's Burger Bar and Grill,"Burgers, Bars","Nightlife,Restaurants"
+373,V9qjoWogqqMWvFFpuASRYw,$$,Evviva Breakfast & Lunch - Downtown Toronto,Breakfast & Brunch,Restaurants
+374,M8S7poDhCIzqQx1--GB-ww,$$,La Cubana,Cuban,Restaurants
+375,AcCZJpxiPqyzKFjlwlwd0Q,$$,The County General,"Canadian (New), Breakfast & Brunch, Bars","Restaurants,Nightlife"
+376,ZdaZwXC0FByDY3EwNELphw,$$$,Union,"Wine Bars, French","Bars,Restaurants"
+377,478TIlfHXfT3wvww54QsPg,$$$,Ki Modern Japanese + Bar,"Japanese, Sushi Bars",Restaurants
+378,DQf63-KJ25m-kDIMto614g,$$,Saving Grace,Breakfast & Brunch,Restaurants
+379,ww_MXl-qDLeYdYTZZ9KWbA,$,Pho Linh,"Vietnamese, Soup",Restaurants
+380,4wtqTzXPPp_6vBfFQKiTGQ,$$,Milestones Restaurants,"Canadian (New), Comfort Food, Bars","Nightlife,Restaurants"
+381,K2CdjES-IZDDEgetOnf0Vw,$,One2 Snacks,"Chinese, Asian Fusion, Malaysian",Restaurants
+382,-Ipm_8YXj9UoNNHagCvsNg,$$$,Aoyama Sushi Restaurant,"Japanese, Sushi Bars",Restaurants
+383,A6bnXx1see4yZSaVVCVDyw,$$,Rolltation,"Salad, Sushi Bars, Poke","Food,Restaurants"
+384,fGdUxfeEWp9pn2sAa9rv2w,$$,Roselle,"Desserts, Bakeries, Patisserie/Cake Shop",Food
+385,Kud1rbrXsyI_iLHfwZcGHQ,$$,Ajisen Ramen,Ramen,Japanese
+386,JCqB36SVDjTDsXp-4gBn9Q,$,Carousel Bakery,"Sandwiches, Bakeries","Food,Restaurants"
+387,eI1ZHGOr2Pus842KrZD5ZQ,$$,Casa-Imperial,Dim Sum,Chinese
+388,UpSHAMogY9ubMGbuNAV5nw,$$,Sushi Wa,"Japanese, Asian Fusion, Sushi Bars",Restaurants
+389,tWdp26XQEJqJGnRmFVJQxA,$$,Mangia & Bevi,"Pizza, Italian",Restaurants
+390,rO3lZpVSoRMhhd0AEJBjlg,$$,Sunrise House,Korean,Restaurants
+391,td9FZybutwNG7DgocHCiXA,$$$,Lai Wah Heen,Dim Sum,Chinese
+392,cj_9eTPR0JBqk9qt2VmzFw,$,Hodo Kwaja,"Korean, Bakeries","Food,Restaurants"
+393,uPa5hrWmHm0n1l4MSyVMGQ,$$$,Aloette,"Bistros, Diners, French",Restaurants
+394,qKUbPdzNQpdSP2mhk3tREg,$,Moo Frites,"Fast Food, Belgian",Restaurants
+395,4RggTW3skfGuUt0MOY_zHw,$$,Ginger,Vietnamese,Restaurants
+396,t41_VSBs7akY2POWNtzqxw,$$,Gyugyuya,"Japanese, Fast Food",Restaurants
+397,Q7oKidQDV52LEPfiwizSNQ,$$,Spoon & Fork,"Japanese, Sushi Bars, Thai",Restaurants
+398,Gc8xWVpbUlBYHAoOT9MTyQ,$$,La Cubana,"Desserts, Cuban, Sandwiches","Food,Restaurants"
+399,t19vb_4ML2dg5HZ-MF3muA,$$,KINTON RAMEN,Ramen,Japanese
+400,QE1tzFyyyRKV1p7C4LRukQ,$$,Nando's Flame Grilled Chicken,"Portuguese, South African","African,Restaurants"
+401,cB7FhpOwFCn380G6WGpJzw,$$,Golden Thai Restaurant,Thai,Restaurants
+402,Mkpg9S2j0ZrZc3q-VjfLsA,$$,Congee Queen,Chinese,Restaurants
+403,ynmTXY9yJDiNkO4HUmxRSQ,$$$,KaKa All You Can Eat,"Japanese, Sushi Bars",Restaurants
+404,x5yBZsTnFb1ah75XRXJz9Q,$$,Sushi Inn,"Japanese, Sushi Bars",Restaurants
+405,7xA6iSP0Ndn08tpBFQtUKA,$$,Aroma Fine Indian Cuisine,Indian,Restaurants
+406,ghaj1MZzPW1qXYCZWfoTTw,$$,Live Organic Food Bar,"Juice Bars & Smoothies, Organic Stores, Live/Raw Food","Food,Restaurants"
+407,G4pt2q9Tr5SkwCw3Wb43VA,$$,Snow Time,"Shaved Snow, Desserts",Food
+408,RXaxKQJtExnRZX1inf8Nyg,$$,Carole's Cheesecake Cafe,"Desserts, Bakeries",Food
+409,LBQD0H2109oltJNF1raLWA,$$,The Haam,"Japanese, Sushi Bars, Mexican",Restaurants
+410,2IbXNp96PAZzjpzytN9vVg,$$,Home of Hot Taste,Korean,Restaurants
+411,RNvVqnX-BLyT4Oe6FIyeJQ,$$,Soma Chocolatemaker,"Ice Cream & Frozen Yogurt, Desserts, Chocolatiers & Shops","Food,Specialty Food"
+412,9HWdRtNS0q4_UkEvL14IfA,$$,Pho Pasteur,Vietnamese,Restaurants
+413,Z5kjUEm1A18l864gb3XA8A,$$,Town Crier Pub,"Pubs, German","Bars,Restaurants"
+414,Da6eZFThE9xanUAGNpZxAg,$$,Nuit Social,"Canadian (New), Modern European, Cocktail Bars","Bars,Restaurants"
+415,OBG1j517k7aZRNC1HAL0TA,$$$,Fabbrica,"Pizza, Seafood, Italian",Restaurants
+416,fCkfyCr1gFczZC816a9pOA,$$,Spoon & Fork,"Japanese, Thai",Restaurants
+417,xyAbFNEIFSy_OKNptyzCmg,$$,Reds Midtown Tavern,"Wine Bars, Argentine, Venues & Event Spaces","Restaurants,Bars,Event Planning & Services"
+418,dyq9my28t5NW8N-6s8OgfA,$$,Snug Harbour,"Seafood, Bars","Nightlife,Restaurants"
+419,XFU7XiXOo7LB3uPLecRlOw,$$,Mymy Chicken,"Chicken Wings, Korean",Restaurants
+420,XZxJ4fG-4a3PP9VP5jvDWw,$$,Mother India,Indian,Restaurants
+421,cr__ihwxDQ7hyq2ZfX172Q,$,Bach Yen,"Vietnamese, Juice Bars & Smoothies, Thai","Food,Restaurants"
+422,_F1_05YYlvePzomZ_NFijA,$$,To-ne Sushi,"Japanese, Asian Fusion, Sushi Bars",Restaurants
+423,G6EkDTXZ6zMUovg7JTG4YQ,$$,Vietnam Noodle Star,"Vietnamese, Noodles",Restaurants
+424,cWPTOM_o5toaXpq0gNxD7Q,$,Vanta Coffee Club & Eatery,"Sandwiches, Cafes, Coffee & Tea","Food,Restaurants"
+425,tngl2VZ4VGpK3qFpmU0NMw,$$,Scaddabush Italian Kitchen & Bar,Italian,Restaurants
+426,nDn2h-_c7Xk4UwM0aiXZlw,$$,Mezes,"Greek, Mediterranean",Restaurants
+427,P-nqq5kOv2wV2mB5To5elQ,$$,Glow Fresh & Wine Bar,"Canadian (New), Wine Bars","Bars,Restaurants"
+428,qR4EIktJfQKc4rnKgBzvtw,$$,Gyubee Japanese Grill - Bloor,"Japanese, Barbeque",Restaurants
+429,9eu2lQMROTKdrPyGkwZLYw,$$,Soco Kitchen and Bar,"Canadian (New), Bars","Restaurants,Nightlife"
+430,2PZRu5q70e0p7jEMxaXsDw,$$,The Bier Markt,"Beer, Wine & Spirits, Canadian (New), Bars","Food,Restaurants,Nightlife"
+431,_eJ2ETotJBzZBQS15fD-8A,$$,Fran's Restaurant,"Burgers, Breakfast & Brunch, American (Traditional)",Restaurants
+432,eoG9zP7xxsDHVM0kJYrvkw,$$,The Shameful Tiki Room,Tiki Bars,Bars
+433,RlNmDWJ0kkEWXW7yORJZVw,$$,Congee Wong,Chinese,Restaurants
+434,KpEu3vvj1ruoID0T3lmD4Q,$$,Mira,Peruvian,Restaurants
+435,B5JCODx4728Ce2Qca1NFHw,$$,Hanmoto,"Japanese, Asian Fusion",Restaurants
+436,qAg8GkN9rforFWmGxBqVqA,$$,Uncle Betty's Diner,"Salad, Poutineries, Sandwiches",Restaurants
+437,i_V36U612XnJ5SJAE1OPWw,$,Apiecalypse Now!,"Vegan, Pizza, Ice Cream & Frozen Yogurt","Food,Restaurants"
+438,jqp--3Unhkr0a5_ofPWLEw,$$,Maker Pizza,Pizza,Restaurants
+439,50-xiTYmE6NERi-yJ6NvHw,$$$,Biff's Bistro,French,Restaurants
+440,BsFAotQQE1yRVVJEDADaJw,$$,Kanpai Snack Bar,"Taiwanese, Tapas Bars",Restaurants
+441,zo_z6lMRcwHqQF_Z1VZLpg,$$,Starving Artist,Breakfast & Brunch,Restaurants
+442,lvv9Vv_5i4IwvDdofO_rKg,$$,Trattoria Mercatto,"Pizza, Italian",Restaurants
+443,xy1McNUocWlt-8DZ7Ifg9A,$$,Pravda Vodka Bar,"Lounges, Russian","Bars,Restaurants"
+444,AYLxEeVq8NKG2UhcBiggrA,$$,850 Degrees Pizzeria,"Pizza, Italian",Restaurants
+445,JmZj7wzAJ7_4ksjG9WXdqw,$$,Gladstone Hotel,"Lounges, Hotels","Hotels & Travel,Bars,Event Planning & Services"
+446,4Ua5_CI0rKq3ar5hUTUprw,$$,KINTON RAMEN,"Noodles, Ramen","Japanese,Restaurants"
+447,Jm_bARKbaZyzoxatBrmZPQ,$$,Chadwick's,"Canadian (New), Comfort Food",Restaurants
+448,3HVxkz03TS_ssJ7j3x5dRA,,The Distillery District,Local Flavor,
+449,PXN0l42g6IWp18NGJ7yn5w,$$,Hey Lucy,"Breakfast & Brunch, Pizza",Restaurants
+450,2xw-Ksu9b2jDYlZaApXcBA,$$,Indian Roti House,Indian,Restaurants
+451,3qTSOuJ-ZyU1L7o62KHSIg,$$$,Gio Rana's Really Really Nice Restaurant,"Tapas/Small Plates, Italian",Restaurants
+452,orrhJxM6V1USwccG7MlxmA,$$,Light Cafe,Cafes,Restaurants
+453,cTbFJzHQzFSX-z3JF4abKQ,$$$$,One Restaurant,Canadian (New),Restaurants
+454,oRgoOhwCex1X9j1iQ9ou3w,$$,Crown Prince Fine Dining & Banquet,Dim Sum,Chinese
+455,-zuJkmIjdRahT_yHED-62g,$$,Sushi Legend,"Japanese, Asian Fusion, Sushi Bars",Restaurants
+456,2YsKefH250qxg28QCyEWZw,$,Samosa King - Embassy Restaurant,Indian,Restaurants
+457,MSA9WlcVCjlektkeDX5keA,$$,Ajisen Ramen,Ramen,Japanese
+458,DQRhUU56vjhAJW0ZF1LLcg,$$,Sin & Redemption,"Pubs, Venues & Event Spaces","Bars,Event Planning & Services"
+459,JK_DiDwbl7HX5OhCAh3h4g,$$,Cafe Diplomatico Restaurant & Pizzeria,"Breakfast & Brunch, Pizza, Italian",Restaurants
+460,WmuoWetYC-4U2-V4taC6Wg,$$,Yueh Tung Restaurant,"Hakka, Breakfast & Brunch","Chinese,Restaurants"
+461,Iu2ZINWwyrt9gXliykBEKQ,$$,Milagro,Mexican,Restaurants
+462,A-KVm7iKLOe1X1yAQP13FA,$$,Udupi Palace,"Vegetarian, Gluten-Free, Indian",Restaurants
+463,nktQ_aBRp5CmVOkXR0Mz1g,$$,Arisu Korean BBQ & Sushi,"Japanese, Barbeque, Korean",Restaurants
+464,5m2JukTajxMk-qS5W4s-FA,$$,Charidise,"Tea Rooms, Taiwanese, Desserts","Food,Restaurants"
+465,9KBd2YPnRxaNjZz23TUd6A,$$,Ed's Real Scoop,Ice Cream & Frozen Yogurt,Food
+466,lVVJMvqu4LXL5rBqjO6eqg,$$,Tofu Village - House of Soon Tofu,Korean,Restaurants
+467,GQSmxqRi_s9U9qd5gHLKAw,$$,Duke's Refresher + Bar,"Burgers, Beer Bar, American (Traditional)","Bars,Restaurants"
+468,SW0NcZwZsbSpsk0ZPgJKmQ,$$,Nana,Thai,Restaurants
+469,QrTvQw_aZOLk_8FZ8tQ_-w,$$,The Bier Markt,"Beer, Wine & Spirits, Canadian (New), Bars","Food,Restaurants,Nightlife"
+470,z8H4Mdzl4jS9pYswj6Jf9w,$$$,Buca Yorkville,"Seafood, Italian",Restaurants
+471,-b94nkPVLQw95zgtDhcpYA,$$,The Works Gourmet Burger Bistro,Burgers,Restaurants
+472,js9rQZAlA5rr7oSBRRcCDw,$$,Dimmi Bar & Trattoria,"Italian, Venues & Event Spaces","Event Planning & Services,Restaurants"
+473,G2Z-4U6cDsDQvT6v3FzYmA,$$$,Ricarda's Toronto,"Mediterranean, Breakfast & Brunch, Italian",Restaurants
+474,pzeb5vd0yC2yUKaRDyBrQg,$$,What A Bagel - Spadina,"Bagels, Breakfast & Brunch, Bakeries","Food,Restaurants"
+475,gOvEzwpu3KbW5aJReQzYRg,$,North Poke,"Poke, Hawaiian","Food,Restaurants"
+476,jVefoZbu5VF80CCB1Q2MaA,$$,Little Sister,"Indonesian, Bars","Nightlife,Restaurants"
+477,IQ3esF7MvIOCbeVetW51Ng,$$,Harvest Kitchen,"Canadian (New), Bars","Nightlife,Restaurants"
+478,6u-x45q0ETB7SQTAAuKSHw,$$,Astoria Shish Kebob House,"Greek, Mediterranean",Restaurants
+479,zrYpLdnGKA_EmOhgRCy_vg,$$,Pomegranate Restaurant,"Persian/Iranian, Middle Eastern",Restaurants
+480,5Qoq8cif3nMCQUN-urH8YA,$$,The Pickle Barrel,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+481,MMGnDeqMUNQsLC5V6BINjQ,$$,Mr.Tonkatsu,Japanese,Restaurants
+482,Tn8O4tv1U-n0PRC8kbJJPg,$,Banh Mi Nguyen Huong Food,"Vietnamese, Bakeries","Food,Restaurants"
+483,iJCI80Nwp514xIqBOgjhCA,$$$,Fat Pasha,Middle Eastern,Restaurants
+484,OA1o0ixPWw-maEq2CF1Qag,$$$,Kiin,Thai,Restaurants
+485,mXsumyOgPP-cRQuFQmRivg,$$$,Barsa Taberna,Tapas Bars,Restaurants
+486,AQJPI5rnkb7pBnBMWtSjvw,$$$,The Shore Club - Toronto,"Steakhouses, Seafood, Cocktail Bars","Bars,Restaurants"
+487,L_tieGcFMQVSmk7XiA093A,$$,Chine Legendary Hot Pot & Noodles,"Chinese, Noodles, Hot Pot",Restaurants
+488,bFzFGDQTLsAs1WKA_EGjZA,$$,Pho Q,Vietnamese,Restaurants
+489,D1lAVtlav4atQTJnIvtcpw,$$,Taverna Mercatto,Italian,Restaurants
+490,picCYFTCbz1Or7kBaS_A5Q,$$,Kobi Korean BBQ,"Barbeque, Korean",Restaurants
+491,b41zjWT4pzcTgNY04eKAvg,$$,Go For Tea,"Tea Rooms, Chinese, Coffee & Tea","Food,Restaurants"
+492,7gTsWzLnmEQBesGRtI9yew,$$,Cacao 70,"Breakfast & Brunch, Chocolatiers & Shops","Specialty Food,Restaurants"
+493,VhQXJteVrG3L-wq8HlYFqw,$$,The Ace,"Canadian (New), Comfort Food, Breakfast & Brunch",Restaurants
+494,9GKi6rHN_0FRdcVahyIOXQ,$$$,Oyster Boy,Seafood,Restaurants
+495,EyxQNX6e5V6ggOWnvQyqWg,$$,Butter Avenue,"Macarons, Desserts, Bakeries","Food,Specialty Food"
+496,zFR99jgMi-qzaJXIx8MXHA,$$,Labothéry,Bubble Tea,Food
+497,nJBwEYaulNXHPAUP0OBRtg,$,FIKA,"Sandwiches, Desserts, Coffee & Tea","Food,Restaurants"
+498,nrq5H3LZicjMG0wv7gy08g,$$,Kintaro Izakaya,"Japanese, Tapas/Small Plates, Sushi Bars",Restaurants
+499,UkoseRjoLT4K2bEzvmyhYA,$$,The Wren,"Bars, American (Traditional)","Restaurants,Nightlife"
+500,tIvDO_1WNbb6UAifErQ-Ug,$$,Balzac's Distillery District,"Coffee Roasteries, Coffee & Tea, Venues & Event Spaces","Food,Event Planning & Services"
+501,a9aW5e731lplWGHUZ02-zQ,$,Chino Locos Original,Mexican,Restaurants
+502,x6fYvse8sBOZf9y8BOZZmA,$$$,Mamakas Taverna,"Greek, Mediterranean",Restaurants
+503,M8Pl5qAmmrODfHeX6GOjsw,$$,Izakaya Ju,"Japanese, Sushi Bars",Restaurants
+504,ATaDg2kdS9GTln1-tS6iIw,$$,EAT BKK Thai Kitchen & Bar,Thai,Restaurants
+505,NVsmDL12AWwovFsuBMD1jQ,$$,Milk Bar Toronto,"Desserts, Bakeries, Custom Cakes",Food
+506,FmwDfn5J7Y8Uvv_FY7iUxQ,$$,Blue Lagoon Seafood Master,"Barbeque, Seafood, Dim Sum","Chinese,Restaurants"
+507,R3iom4lNTG-9A6qczf6V8w,$,Java House,"Pubs, Coffee & Tea","Food,Bars"
+508,eBqGqgZpWuM2dyPRpHbWdg,$$,Tatami Sushi,Japanese,Restaurants
+509,6BC87j5FxoIwa-atC77WYQ,$$,Tabülè Middle Eastern Cuisine,Middle Eastern,Restaurants
+510,NEYMAeK1BeR2E_vELnEIDA,$$,Quantum Coffee,Coffee & Tea,Food
+511,Km9IPMrNPEnn40ebgxs6vw,$$,Nu Bügel,Bagels,Food
+512,z1jWE9gO4ehWJESM_H7zpA,$$,Icha Tea,"Desserts, Coffee & Tea",Food
+513,yFQCdWr_k1pTObzHPGis9Q,$$,Grasshopper Restaurant,"Vegan, Vegetarian, Salad",Restaurants
+514,abO4gvGKB0aVjsrXHlgeFg,$$,Nobuya,Japanese,Restaurants
+515,FyUcIAn8timIFybYpOLbAw,$$,The Alley,Bubble Tea,Food
+516,e1W5fwngUYf3kdsgxo4spg,$,Sang-Ji Fried Bao,"Noodles, Soup, Dim Sum","Chinese,Restaurants"
+517,w83e1yhgX69WELkuZwOsoA,$,Shawarma Empire,Middle Eastern,Restaurants
+518,oc8204pyvf9ixdA4JzzaLA,$$$,The Good Son,"Pizza, Cocktail Bars","Bars,Restaurants"
+519,BxcLVgA6BndKDJol0ZZu0g,$$$,Lavelle,Lounges,Bars
+520,FfF8XGFf8_BSlWSjIgqeQg,$$,Scaddabush Italian Kitchen & Bar,"Pizza, Bars, Italian","Nightlife,Restaurants"
+521,Nxg73OigmRQQq0d1pKtkUQ,$,Xe Lua Restaurant,Vietnamese,Restaurants
+522,7qHU_Zh5qEJP3DaaBHqWBg,$$,Saigon Lotus,"Vietnamese, Vegan, Vegetarian",Restaurants
+523,g1UVmCOhQDY7TGSZ2rRT_w,$$,Congee Queen,Chinese,Restaurants
+524,MW20l3gVlw7NzATSOV7Qkw,$$,Porchetta & Co,Sandwiches,Restaurants
+525,49fcUkW5tOHlqBakrWTMzQ,$,North of Brooklyn Pizzeria,Pizza,Restaurants
+526,2cKAew-9iLS-mo-TtOgFiA,$$,Raku,"Japanese, Noodles",Restaurants
+527,IZzJaZWvw-IUrOLkP09JRQ,$$,Allen's,"Pubs, Irish","Bars,Restaurants"
+528,StjUke9uj6T6qB4hpyzMMA,$$,Fresh on Crawford,"Vegan, Juice Bars & Smoothies, Burgers","Food,Restaurants"
+529,ui3NMjdiIrILl9JFGcLfbg,$$,Tsujiri,"Tea Rooms, Desserts, Ice Cream & Frozen Yogurt",Food
+530,-Tpo5r3kF_z4iilx8JXhvA,$$,Basil Box,"Vietnamese, Gluten-Free, Thai",Restaurants
+531,onCx6Ye5IwD07emyj-VLrg,$$,Hogtown Smoke In the Beach,"Barbeque, Southern, Food Trucks","Food,Restaurants"
+532,6xowh_GdOsRrz9QWN6nMxA,$$,Uncle Tetsu's Japanese Angel Cafe,"Desserts, Patisserie/Cake Shop",Food
+533,XiMvHK4Nq0xPa1GOtdKzdA,$,Bong Lua Vietnamese Restaurant,Vietnamese,Restaurants
+534,9Oc8UhYNarSisYM9SEBsKQ,$$$,Chop Steakhouse & Bar,"Lounges, Steakhouses, Seafood","Bars,Restaurants"
+535,Y5eFSPCS_c3k6ueiCRj6dA,$$,North Restaurant- Shomal,"Persian/Iranian, Middle Eastern",Restaurants
+536,nRZjrWIzqKc26KjpBG0fHg,$$,Cafe Princess,Coffee & Tea,Food
+537,kuJRRmmmDUXqwM6kNihXXA,$$$,Jump Restaurant,"Canadian (New), Wine Bars","Bars,Restaurants"
+538,cepfJZIv0iLj1fDs8LdYZg,$$,Queen Margherita Pizza,Pizza,Restaurants
+539,mM3o2evEq36fJvkUCe-BWw,$$,Sushi-Ya Japan,"Japanese, Sushi Bars",Restaurants
+540,Cp01l4XUjd-6x-6v4KiIEg,$$,K&B Sushi,"Asian Fusion, Sushi Bars",Restaurants
+541,IRF1hPi3GuxJ-EpoEpzI7Q,,Hockey Hall of Fame,Museums,Arts & Entertainment
+542,FBd6q_qzEFixvhV3KdzvJw,$,Riddle Room,"Cafes, Escape Games","Active Life,Restaurants"
+543,GHUHWAaVjKDn74r50EKKMA,$$,Calii Love,"Juice Bars & Smoothies, Coffee & Tea, Hawaiian","Food,Restaurants"
+544,YtfQQHdcQ_bGl2V0Agxw1A,$$,Bindia Indian Bistro,Indian,Restaurants
+545,CkncJJ9tKgsGULXTTKmfdw,$$,309 Dhaba Indian Excellence,Indian,Restaurants
+546,JgkWj-e5lHRNvj1lFrZ2dA,$$,KoSam,Korean,Restaurants
+547,m2hz26KM3kLN_AS5CcEjPg,$$,East Thirty-Six,"Canadian (New), Breakfast & Brunch, Cocktail Bars","Bars,Restaurants"
+548,ikI3t6meCr4_DpHHZs6N2w,$$,Kwan,Dim Sum,Chinese
+549,pvCcrHFAGCml492qoQBsQg,$$,Ricci's Pizzeria & Sandwich Shoppe,"Italian, Pizza, Sandwiches",Restaurants
+550,n2NRR4N-kmeDvhHJivHGkA,$$,Gyu-Kaku Japanese BBQ,"Japanese, Barbeque, Asian Fusion",Restaurants
+551,prlIJsg3UEg3DioOZPFhig,$$,The Burger's Priest,Burgers,Restaurants
+552,c9AIsznk1BtEYZp0gZio6A,$,Dairy Cream,Ice Cream & Frozen Yogurt,Food
+553,Mrqk1ydkvgKtlxrExCv6gQ,$$$,Diana's Oyster Bar and Grill,"Bars, Seafood, American (Traditional)","Nightlife,Restaurants"
+554,-TjzQsimpriXVYaH3HdtQA,$$,The Fanzone Wings & Ribs,"Chicken Wings, Bars, American (Traditional)","Nightlife,Restaurants"
+555,k3fn9JFiNLNy2q5p0cE1kg,$$$,Carisma,Italian,Restaurants
+556,g6GXqg-QdDiQGLYMVqNOUw,$$$,Hapa Toronto,Japanese,Restaurants
+557,_kXHHT8RMqx9Ro8gWXE9kA,$$$$,Medieval Times Toronto,"Dinner Theater, American (Traditional)",Restaurants
+558,Lfl9kppQhikig4xI3UdjOA,$,Ritz Caribbean Foods,Caribbean,Restaurants
+559,ZCYCNWA98718SZ0A4bHD7A,$$,Dear & Fro,"Desserts, Ice Cream & Frozen Yogurt",Food
+560,bN9WeldcsIAowZ3p_ubZAA,$$,The Ballroom Bowl,"Dance Clubs, Bowling, Sports Bars","Active Life,Bars,Nightlife"
+561,hcHaWzM5wfdAbCWs4zmmqg,$$,Nodo,Italian,Restaurants
+562,Xhf3nW6UahoVpRMkVUlnJA,$,Te Aro,"Cafes, Coffee & Tea","Food,Restaurants"
+563,a-Mo7Ipu_c5y21mmg0-F7g,$$,Agio,Italian,Restaurants
+564,LCb2moBNkcBto_32rmZJ5A,$$,Echo Sushi,"Japanese, Sushi Bars",Restaurants
+565,MT-lkIacLNyC7KF2dY997A,$$,Mill Street Beer Hall,"Canadian (New), Gastropubs, Bars","Nightlife,Restaurants"
+566,d8Kz48UDfZ0MPuQpGy2r0Q,$$$,Kost,"American (Traditional), Mexican",Restaurants
+567,tu_bhkTGMkieJeOH3uQVHQ,$$,Nak Won,Korean,Restaurants
+568,AED5R0yXVzJvWAGEqWBG4A,$$,NEO COFFEE BAR,"Coffee & Tea, Bakeries",Food
+569,UpzKtM6NaCa6arJksV5oeA,$$,Golden Star Burgers,"Hot Dogs, Burgers, Diners",Restaurants
+570,oAq3-dXyDT3k4Mluc1ftTA,$$$,Yamato Japanese Restaurant,"Japanese, Sushi Bars",Restaurants
+571,7gnYWanhD6O7qOF-NfPNhA,$$,Frankie's,"Breakfast & Brunch, Diners",Restaurants
+572,vcxvQyAggPqxcHwvJXvjGg,$$,Bobbette & Belle,"Desserts, Bakeries, Caterers","Food,Event Planning & Services"
+573,bQm046mj02fKlNMvoS2SBg,$$,Anatolia Restaurant,"Mediterranean, Turkish",Restaurants
+574,SxjNgkzAlUG-wt2rSbc2HQ,$$,New Ho King,Chinese,Restaurants
+575,An-JJle53UMHokU4MwFktg,$$,Deer Garden Signatures,Chinese,Restaurants
+576,VxrvGKfba7rBDNLjc-Wy3A,$$,Ethiopian House Restaurant,Ethiopian,Restaurants
+577,Ymy91k8r312xvxzC42b5IQ,$$,Top Gun  Burgers,"Burgers, Cheesesteaks",Restaurants
+578,D87tFO-R6U8f4-e0r4Zq_g,$$,Yorkville Crepes,"Desserts, Cafes, Creperies","Food,Restaurants"
+579,ErTB7R4rJNUUV8nsUVG26Q,$$,Forno Cultura,"Bakeries, Coffee & Tea",Food
+580,sYSlKRCWmVeQr1hA6-WUzw,$$,Fresh on Eglinton,Vegan,Restaurants
+581,zb61eT_ChYctlCXcIqlW6Q,$$,Me Va Me Kitchen Express,Mediterranean,Restaurants
+582,B9HEaOiIBYduurc0AeCadg,$$,PROJECT:FISH,Sushi Bars,Restaurants
+583,4Jscimulh38Rq2hOgjb2Hg,$,Strange Love,"Cafes, Coffee & Tea","Food,Restaurants"
+584,GjQBLRtmq8cJjekipzJ49g,$$$,Windsor Arms Hotel Tea Room,Tea Rooms,Food
+585,bejxx0XrZ6Ogv-o-3InELA,$,Sugar Marmalade,"Taiwanese, Desserts","Food,Restaurants"
+586,iGqGde420TlBrKcU43TEog,$$,Me Va Me,Middle Eastern,Restaurants
+587,kxo3Zz_JIEUGkJHl9kUiKg,$$$,Bymark,Canadian (New),Restaurants
+588,yC4PR3LFCubwfcY_xKKomw,$$,Urban Herbivore,"Vegan, Sandwiches",Restaurants
+589,Nz44ccUso3nq5S2OlQHNlA,$$,Mexico Lindo,Mexican,Restaurants
+590,dUePqUU5pROUEPiWBau72A,$$,Brazen Head Irish Pub,"Pubs, Irish","Bars,Restaurants"
+591,3-i1qd64K-WLo0fJ5wrbbw,$$,Owl of Minerva,Korean,Restaurants
+592,v_XG6rpmOIqxMYyTfNKjaQ,$,Square-Boy Drive-In,"Greek, Burgers",Restaurants
+593,3D-FJxp8bsBzm3zJVqs92g,$$,OverEasy Restaurant,Breakfast & Brunch,Restaurants
+594,bNQVXqWpsToBDcJg_4aWYA,$$,Green Grotto,"Tea Rooms, Taiwanese","Food,Restaurants"
+595,-76didnxGiiMO80BjSpYsQ,$$,Green Beanery,Coffee & Tea,Food
+596,f-ookZOX4pBNldaOHMkJ4A,$$,Hong Shing Chinese Restaurant,Chinese,Restaurants
+597,7T3WU-Up01pgCeygbc_K-A,$$,Dagu Rice Noodle-Downtown,"Chinese, Noodles",Restaurants
+598,bAdlbqHs4ayJxOXOUFQDyw,$$$,Nami Restaurant,"Japanese, Seafood",Restaurants
+599,ucgzkl7atsBMGu4gGpmHfw,$$,Peter Pan Bistro,"Canadian (New), Bistros",Restaurants
+600,eSp5ge9VAwTywZKlJ_LBvA,$$,Madison Avenue Pub & Restaurant,"Pubs, American (Traditional)","Bars,Restaurants"
+601,BWCfyBdnTvuXp6A_8wt8cA,$$,Ikkousha Ramen,Ramen,Japanese
+602,7Cm5SCTu7LePBCXTUaEiwQ,$$,Shark Club Sports Bar & Grill,"Canadian (New), Lounges, Sports Bars","Bars,Restaurants"
+603,5hTskC8JrA2zA0mYaYEZpg,$$,Otto's Bierhalle,German,Restaurants
+604,WbS58nfQQZaxWk1BUPBuJQ,$$,The Poke Box,"Salad, Poke","Food,Restaurants"
+605,oOGLDf2rzeCPS7UQ8hhPlQ,$$,SU&BU,"Japanese, Poke","Food,Restaurants"
+606,McVmSLVRJBDWIuQO7D6GJg,$$$,Soos,Malaysian,Restaurants
+607,YHubCF0Ua0uC6HC2tm-arQ,$$,The Federal,"Breakfast & Brunch, Bars, American (Traditional)","Nightlife,Restaurants"
+608,yKFx0bW9_buGt9NASTpUaw,$,Smoke's Poutinerie,"Fast Food, Poutineries",Restaurants
+609,iNhP0ejUf2jVzaR5YCOoEQ,$$,Remezzo Italian Bistro,"Pizza, Italian",Restaurants
+610,C3PVq7UpeHd6nz1_e-AtkA,$$,Kalendar,"Breakfast & Brunch, Italian, French",Restaurants
+611,3cAy1gxlprn1ue0q3L_ziw,$$,Lee Chen Asian Bistro,"Wine Bars, Asian Fusion, Dim Sum","Chinese,Bars,Restaurants"
+612,FCMRBcvrwN01eT6WRaTC6A,$$,The Craft Brasserie & Grille,Brasseries,Restaurants
+613,xrA53WYhRCml2bMfpQ_Hig,$$$,La Palma,Italian,Restaurants
+614,9yrAfE46k-_kqg4ULHu8Vw,$$,Little Piggy's - Authentic Korean BBQ,"Barbeque, Korean",Restaurants
+615,WNnkyVvBfY1vTqiqSufZQA,$$$,Cibo Wine Bar,"Wine Bars, Italian","Bars,Restaurants"
+616,1QwX7Cgkm6KnlcGNDTh6EQ,$$$,E11even,"Canadian (New), Steakhouses, Seafood",Restaurants
+617,nKeGPmH5dYNVL5AyAItuKg,$$,Restaurant Chantecler,"French, Cocktail Bars","Bars,Restaurants"
+618,gHmkE8VoNjJZDLVdTpJPOw,$$,Taylor's Landing Bar Grill Hub,"Canadian (New), Comfort Food, Bars","Restaurants,Nightlife"
+619,HnbWx7Q8P4-MXbxMpb-qVw,$,Jimmy's Coffee,Coffee & Tea,Food
+620,UpEVdq_euH-5mqCIgUAd2Q,$$,Le Papillon On Front,"Breakfast & Brunch, French",Restaurants
+621,OXW2erFOPT-Oov6wChxWYA,$$,Lee Chen Asian Bistro,"Asian Fusion, Dim Sum","Chinese,Restaurants"
+622,QePLHlU8MFaU2Sf9dzoLTg,$$,Sushi One,"Japanese, Sushi Bars",Restaurants
+623,FkJTuuqeJL4jHi2FojX_fg,$$$,Fune Japanese Restaurant,"Japanese, Sushi Bars",Restaurants
+624,H4-PU2SIOfHgi3R1hCC0-g,$$,Holy Smokez BBQ Sandwiches,"Barbeque, Sandwiches",Restaurants
+625,svijhRN0hWIHfKb421D1Tg,$$,JOEY Sherway,"Canadian (New), Lounges","Bars,Restaurants"
+626,Qgi_Q6PkF5D489t45vU_8g,$,Greg's Ice Cream,Ice Cream & Frozen Yogurt,Food
+627,hNSvyreISNd9XXrHyyaSjQ,$$,Nirvana,"Asian Fusion, Bars","Nightlife,Restaurants"
+628,Qqm3yVcqTbC1IOKu0TG2nQ,$$,Dal Moro's Fresh Pasta To Go,Italian,Restaurants
+629,uUq0bMEjt202bMbRHkIcNA,$$,Mabu Station,Taiwanese,Restaurants
+630,bg3YcuqVyQofTz5d4kKgug,$$,Federick,"Chinese, Indian",Restaurants
+631,KcIalceIg6PSPONvLlI4-w,$$,Sud Forno,"Sandwiches, Italian, Bakeries","Food,Restaurants"
+632,KT2E2HQtb0HA0zsjbVp2BQ,$$$$,STK Toronto,"Lounges, Steakhouses, Cocktail Bars","Bars,Restaurants"
+633,HczMx_z0HS_PnpdTHc3qzQ,$,Egg Bae,Breakfast & Brunch,Restaurants
+634,rvHGv9Q7r5QkIYrCZlfoAQ,$$$,Pukka,Indian,Restaurants
+635,zJIv1GZogXv8j__XRyVi6A,$$,Cora,Breakfast & Brunch,Restaurants
+636,JrB6On8q8f1_ICQSCLg47w,$$,Five Guys,"Burgers, Fast Food",Restaurants
+637,3-A-wVAkoyz39nSHaExpLw,$$,The Lockhart,Bars,Nightlife
+638,0hudPyuCBlKg79OwKBw-eQ,$$,The Black Bull,Bars,Nightlife
+639,HU8MnV129kOK4m0ZH4GpCg,$$,El Jefe,"Mexican, Cocktail Bars","Bars,Restaurants"
+640,4-FgbYd8jUSqevNRxRtS-w,$$,Rosalinda,"Vegan, Mexican",Restaurants
+641,Lzr34VkDJQ6l8oWq9MptAA,$$,Sushi Sky Japanese Restaurant,"Japanese, Sushi Bars",Restaurants
+642,1PQzTopufAMDpx0HHBFeRA,$$,The Real Jerk,"Lounges, Caribbean","Bars,Restaurants"
+643,KxHDiCOhHWQu_VOw8DMfJA,$$,The Hole In the Wall,"Pubs, Canadian (New)","Bars,Restaurants"
+644,pdTYUCGkYz35utxPyUMoag,$$,La Carnita,Mexican,Restaurants
+645,nlai1j5FXlDZSw1RwvLIvw,$$,Manic Coffee,Coffee & Tea,Food
+646,v_UM-AW9YYTCbWUNa-w1Gg,$$,Epicure City BOM,Korean,Restaurants
+647,NGhmpSDZmg1shPOVdsHgBQ,$,Tom's Dairy Freeze,"Burgers, Desserts, Ice Cream & Frozen Yogurt","Food,Restaurants"
+648,rl137V_5Hx0cJAV4beVdhA,$$,Campechano Taquería,Mexican,Restaurants
+649,Ze4VPogvcD7inc3QuvY_yg,$$,The Markham Station Restaurant,"Canadian (New), Breakfast & Brunch",Restaurants
+650,PUDtJu2bFTvIl1_WhyUIXQ,$$,Vesuvio Pizzeria & Spaghetti House,"Pizza, Italian",Restaurants
+651,FJMMPL3pxAPYGEPB0Hwlhw,$$$$,TOCA,"Breakfast & Brunch, Italian, Dinner Theater",Restaurants
+652,_SuPPi-txNSwbWlu8IQkuQ,$$,The Burger's Priest,Burgers,Restaurants
+653,MlwsOef4hDJVHWOzutE6yw,$$,Cheese Garden,"Desserts, Patisserie/Cake Shop, Custom Cakes",Food
+654,ujPuhQdg8-GCJQg6BoRJtA,$$,Big Smoke Burger,Burgers,Restaurants
+655,olllmpQVBHwOQmarQro2fw,$$,Over Easy Restaurant,Breakfast & Brunch,Restaurants
+656,w5axMYWy5bcY0tiqAnYeRg,$$$$,Sushi Kaji Restaurant,"Japanese, Sushi Bars",Restaurants
+657,kYli-nDMENotoxZonriBLA,$$,Mi-Ne Sushi,Japanese,Restaurants
+658,xVHzCbDWCwmyavF5PgJRmg,$,Not Just Noodles,Chinese,Restaurants
+659,ZuA9e5nSrCj2R97x2K2yOQ,$$,Cold Tea,Bars,Nightlife
+660,u2ETlHOcFdRz4BxcdfsK0Q,$$,Bangkok Garden Restaurant,Thai,Restaurants
+661,47wBHgBwQ8_70sjmXow_1g,$$,Her Father's Cider Bar & Kitchen,"Canadian (New), Gastropubs, Bars","Nightlife,Restaurants"
+662,mCNzKFTukMYHkZVRMXIIyw,$$,Sushi On Bloor,Sushi Bars,Restaurants
+663,x8UvTkKx9WApRsMxQ3ZPtQ,$$,Crown & Dragon Pub,Pubs,Bars
+664,2UFl9gLOQrSGY2sPu6U-kA,$$,Happy Lamb Hot Pot,"Hot Pot, Mongolian, Chinese",Restaurants
+665,Y0NkII8gne1QEJbUCBi2tg,$$,The Burger's Priest,Burgers,Restaurants
+666,Lk2I8GTjKLd_R1drktNWNg,$$,The Pickle Barrel,"Canadian (New), Bars","Nightlife,Restaurants"
+667,6cIhp2atp7LSMR5ke9DOHg,$$$,Montecito Restaurant,Canadian (New),Restaurants
+668,dulgBrNtDCGjYcbQa2E6uA,$$$$,Michael's on Simcoe,"Steakhouses, Seafood, Italian",Restaurants
+669,G8qvbhfbCyMAeZzYrbmZxA,$$$,Carmen,Spanish,Restaurants
+670,-PKUAor_Nz_IaNjP_jIwyA,$$,Playa Cabana - Hacienda,Mexican,Restaurants
+671,NGGlOtWd_Xc14WFVYOmMdg,$$,Sikgaek,"Hot Pot, Korean, Noodles",Restaurants
+672,bDAkngRX4-ci1sAJfMWDbw,$$,Holy Chuck,Burgers,Restaurants
+673,F09jtEb9KEph2L7Pbji5QQ,$,Golden Bubbles,"Ice Cream & Frozen Yogurt, Waffles","Food,Restaurants"
+674,HKfW6AZ-lW7jwLJwNlcLLQ,$$,Kintako Japanese Restaurant,Japanese,Restaurants
+675,ByrCDfyklGGk0D9O9P2Rog,$$,Moxie's Grill & Bar,"Canadian (New), Lounges, Steakhouses","Bars,Restaurants"
+676,P87jyPn6MkeO-zo3EZWL8A,$,The Real McCoy Burgers & Pizza,"Burgers, Pizza",Restaurants
+677,K3NW8TEu4QRQvFvHer8v4A,$$$,Joso's,Seafood,Restaurants
+678,Q4RSmF0s-AkaegrLFCLEbg,$$$,Donatello Restaurant,"Seafood, Italian",Restaurants
+679,NoT7u2QNEvsVbH9MIzAzlw,$$,Si Lom Thai Bistro,"Seafood, Noodles, Thai",Restaurants
+680,ehUN_XAWr1ePov0jtgv0Lw,$$,Snakes & Lattes College,"Tabletop Games, Cafes, Bars","Shopping,Restaurants,Nightlife"
+681,dOKk_X3mLpOkDn051v3xUA,$$,The Porch Toronto,"Lounges, American (Traditional)","Bars,Restaurants"
+682,bDut3KRQJ0qLElfaJNQFgg,$$,Famoso Neapolitan,Pizza,Restaurants
+683,QX5Y_BIxlMG3B3vV1zx1Gw,$$,Cherry Street Bar-B-Que,Barbeque,Restaurants
+684,0cpLF0LFQHHRFNlL0iy_Aw,$$,Union Social Eatery,"Canadian (New), American (Traditional)",Restaurants
+685,oQFMJqDwNXbNMRbcmIYRYg,$,Little Nicky's Coffee,"Juice Bars & Smoothies, Donuts, Coffee & Tea",Food
+686,5BFkc4QkZL3QCCL4nijleA,$$,Pho Viet Xpress,Vietnamese,Restaurants
+687,z_twvOBwyGNbuxJhsiJofg,$,PG Clucks,Sandwiches,Restaurants
+688,6SAfQKe2oM5g_EtcYXyAMg,$$,Ajisen Ramen,Ramen,Japanese
+689,fD33UMpiCJcWWXmNKYKANQ,$$,Red Lobster,"Seafood, American (Traditional)",Restaurants
+690,gaEgDDKsuBVzDFg8wsF2Ig,$$,Apache Burgers,"Hot Dogs, Burgers",Restaurants
+691,GdCRQU3VCh_x8fY84mbwYQ,$$,Bamiyan Kabob,Afghan,Restaurants
+692,5Illcs9aBYZlaJp9BiGjng,$$,Jimmy's Coffee,Coffee & Tea,Food
+693,U6ZPS03Nnm-peYC0q_bV6Q,$$,Imperial Pub,Pubs,Bars
+694,-BSf1LtnOrtCWAzmumxUpw,$,Chatime North York,Coffee & Tea,Food
+695,GY2VyNBxX5H_8kilGCAjUA,$$,Elephant & Castle,"Pubs, British","Bars,Restaurants"
+696,IBZ6e3P0OqcPXVjvGlpueQ,$$,Off The Hook Fishbar,"Seafood, Fish & Chips",Restaurants
+697,hTUtle9Btvw-K_0ne0og_A,$$,Pho Real,Vietnamese,Restaurants
+698,q0tMKr-hzS4UT0RArdZfzQ,$$,Rooster Coffee House,Coffee & Tea,Food
+699,ajHLLUe-A9dTd7WyU12XZQ,$$,Madras Masala,Indian,Restaurants
+700,Ly48L1qSRdLpCSWcs_DWIw,$$,Phoenix Restaurant,Chinese,Restaurants
+701,Cew9RRnuldbqaL3MW6p1wg,$$,Greenwood Smokehouse BBQ,"Barbeque, Southern, Soul Food",Restaurants
+702,Q4VYrJr_UPixyLXSnA4O2g,$$,Everest Hakka House,"Chinese, Indian",Restaurants
+703,7ppWunvrIURnEZi5nUB_7g,$$$,Baro,"Chicken Wings, Latin American, Cocktail Bars","Bars,Restaurants"
+704,ZbnFrow_TRDhpzkzTWAVPg,$$,Fran's Restaurant,"Burgers, Breakfast & Brunch, American (Traditional)",Restaurants
+705,sQFpfRs1Flcw3evCdI2wpA,$$,Asian Bowl,"Vietnamese, Chinese, Thai",Restaurants
+706,m7v-K-BARyZu6lePJw8u6g,$$,Cacao 70,"Desserts, Chocolatiers & Shops","Food,Specialty Food"
+707,aEZ_EoArhpjV2p0q5MXFMA,$$,Onnki Donburi,Japanese,Restaurants
+708,6eRSdODyj9GS0w6zlhrWkg,$$$,Adega Restaurante,"Spanish, Portuguese",Restaurants
+709,pofDmHoIsdvPcSKzb2iMag,$$,Sky Dragon Chinese Restaurant,Dim Sum,Chinese
+710,k1lSQ4VIqEn36UL1zkb3dw,$$,VIPS Sushi,"Japanese, Sushi Bars",Restaurants
+711,aIBvcOjkAURJJ-UH0G-s0g,$,Bitondo's Pizzeria,"Pizza, Italian",Restaurants
+712,F2PcvHf7G8QwCDSJ1-7fFQ,$$,Paupers Pub,"Pubs, Burgers, Sandwiches","Bars,Restaurants"
+713,RqIZnkRaCPI9qXYoH5w0RA,$$,Dark Horse Espresso Bar,Coffee & Tea,Food
+714,tuTAKHUm7ErDRZ2Yll8LzQ,$,Completo,"Comfort Food, Fast Food, Latin American",Restaurants
+715,7ZBh-3wWVQ5zkd6KZytW0g,$$$,Cibo Wine Bar,"Mediterranean, Wine Bars, Italian","Bars,Restaurants"
+716,ryEwIARbKHvb0lCkAam8dQ,$$,Sud Forno,"Italian, Bakeries, Coffee & Tea","Food,Restaurants"
+717,mkceCArNe87jwSdLfsslXg,$$$,Bosk,Canadian (New),Restaurants
+718,MC4becrrM9ntmnfMrD9b0g,$$,Sushi Ichiban Ellesmere,"Japanese, Sushi Bars",Restaurants
+719,qUWqjjjfpB2-4P3He5rsKw,$$,Levetto,"Salad, Pizza, Italian",Restaurants
+720,QW6YN-F4ikGWzEey8yi-OQ,$$,Door FiftyFive,"Southern, Cocktail Bars","Bars,Restaurants"
+721,nTMZSvPMSIofI5RLARFIaA,$$,TORCH Pressed Sushi,"Japanese, Sushi Bars",Restaurants
+722,arpBUwgiaE8iqfNGMQ_hgg,$,Big Fat Burrito,"Tex-Mex, Mexican",Restaurants
+723,YAdyu9ovEiOZXBWkD0H8-Q,$$,Jerusalem Restaurant,"Mediterranean, Buffets, Middle Eastern",Restaurants
+724,y0QzKWNVoXCbZpk6uhEgGA,$$,Mamma Martino's Pasta and Pizzeria Restaurant,"Pizza, Italian",Restaurants
+725,ZCrK07xb6w5Vi1vathV0NQ,$$,Bapbo Korean Restaurant,Korean,Restaurants
+726,1FL3oE2mqq_EFAYPd1TWUg,$,Meet Dumplings,Chinese,Restaurants
+727,tb7LN9t_SaI_6wGu1dHR2g,$$$,The Keg Steakhouse + Bar,"Steakhouses, Seafood, Bars","Nightlife,Restaurants"
+728,4oWEqa3paBylDXRfTPB-bA,$$,Jack Astor's Bar & Grill,"Canadian (New), Burgers, Sports Bars","Bars,Restaurants"
+729,hXVaXtDO9NnvCOSMtFuHRg,$$,Kawa Sushi,"Japanese, Sushi Bars",Restaurants
+730,Bo53nDtkmu0gAWraONir1A,$$,L'espresso Bar Mercurio,"Cafes, Coffee & Tea","Food,Restaurants"
+731,VBcmyBxAPcpzbbnPbFfttA,$$,La Bettola di Terroni,Italian,Restaurants
+732,TpwCjlKsdYjLsvlYhKGt4g,$,Almond Butterfly Cafe & Bakeshop,"Breakfast & Brunch, Cafes, Bakeries","Food,Restaurants"
+733,hm0y7QxT-UUmQcF074qV0g,$,Boxcar Social,"Wine Bars, Coffee & Tea","Food,Bars"
+734,4WW0U2mKgFYJILnWLmUwLA,$$,Lim Ga Ne,Korean,Restaurants
+735,IxDYVpjEeCxZ8HsZnthvdw,$$,Thai Basil Toronto,"Thai, Pan Asian",Restaurants
+736,87I8ba2FKYKeXyAhiC6cLg,$$,Pokito,"Seafood, Poke, Hawaiian","Food,Restaurants"
+737,fPISsMIXOYZP1uins2Bwyw,$$,Summer's Ice Cream,"Desserts, Ice Cream & Frozen Yogurt",Food
+738,mUUTJY9_BqmAYxypHiqWrw,$$,Francesca,Bakeries,Food
+739,RdwHiTJzpCU4Q8pgsJhiKg,$$,Max's Restaurant,Filipino,Restaurants
+740,SZuroTnXB7FwOlHp8Jahyg,$$,Aanch Modernist Indian Cuisine,Indian,Restaurants
+741,JlpkA8yZb3K4wUkz1UJD1g,$$,Pho Vistro,Vietnamese,Restaurants
+742,-7EwIdxcRC5McO35DVfeSQ,$$,Xin Jiang Restaurant,Chinese,Restaurants
+743,IfUkm42SB9D0m_ZbkQ711A,$,The Fish Store & Sandwiches,"Seafood, Sandwiches",Restaurants
+744,SPKNsdqFSI3kp5EMKyC0Mw,$$,Sushi Omigoto,"Japanese, Korean, Sushi Bars",Restaurants
+745,kDFeGBX1vWiDyJXMYRL0_A,$$,The Rex Hotel Jazz & Blues Bar,"Pubs, Jazz & Blues","Arts & Entertainment,Bars,Nightlife"
+746,WRPlRsDK47DFl3dz65zhYg,$$,Pinky's Ca Phe,Vietnamese,Restaurants
+747,BHX0ghpo_r4lVxGRPEBIQw,$$,The Dumpling King,Chinese,Restaurants
+748,ybbcg01-j7tKJ_oLEY1uPQ,$$,Jatujak,"Thai, Food Delivery Services","Food,Restaurants"
+749,wK1SMAzIpHh-KYbrs7m0nA,$,California Sandwiches,Sandwiches,Restaurants
+750,RwVXPEFAuTHktV2dAqDkNw,$$$,The Keg Steakhouse + Bar - Leslie,"Steakhouses, Seafood, Bars","Nightlife,Restaurants"
+751,q7MorRPzU_J-iekeDKUKgw,$$,Reposado Bar & Lounge,"Music Venues, Tapas/Small Plates, Cocktail Bars","Arts & Entertainment,Bars,Nightlife,Restaurants"
+752,swKNEf44cc_90GnM4ULm8w,$$,Kuu Sushi,"Japanese, Sushi Bars",Restaurants
+753,VvSmE1NnTjnaTPHT0WrCaQ,$$,King's Café,"Vegetarian, Chinese",Restaurants
+754,1tm8O_QuMk8nLaVn1Hr0Zg,$$,The Rhino,Bars,Nightlife
+755,mdoALqA201oRodl-lN_czg,$$,Kupfert & Kim,"Vegetarian, Vegan, Gluten-Free",Restaurants
+756,M_fzy4_KslKoXeyZ022Z8g,$$,August 8,"Japanese, Chinese, Sushi Bars",Restaurants
+757,bo4loBeLwkQqZ7HGrgxXRQ,$$,Trattoria Taverniti,"Pizza, Italian",Restaurants
+758,nZ4HW543eDyqqE62QYnChg,$$,The Burger Cellar,"Burgers, Bars","Nightlife,Restaurants"
+759,wMr1NZCfOp8rgDe6gUHoQg,$$,The Grapefruit Moon,"Vegetarian, Burgers, Breakfast & Brunch",Restaurants
+760,Cx0wkl85Xdw9OCQkbXMjzQ,$$,Sushi Bong,Japanese,Restaurants
+761,FfJD4vO-iYUL2Kr0WWzNYg,$$,The Caledonian,"Pubs, Scottish, Whiskey Bars","Bars,Restaurants"
+762,0bbWKI1lA-bmEeeWOrDmSA,$$,Cora's Breakfast and Lunch,"Canadian (New), Breakfast & Brunch",Restaurants
+763,KUlm5OuKYJ6nGj0EUwcY9w,$$,Lalibela Ethiopian Restaurant,Ethiopian,Restaurants
+764,IikkB8j2E-1QmujRsPh5wQ,$$,Kayagum,Korean,Restaurants
+765,M3VcPBiMvhsEJSGUHvXu2w,$$,Mustafa Turkish Pizza,Turkish,Restaurants
+766,QJf992yAgUpNeFMuTTPQ1A,$$,HotBlack Coffee,"Breakfast & Brunch, Cafes, Coffee & Tea","Food,Restaurants"
+767,sKrt4CMGyG8YAjxVkk4hPQ,$$,Fusaro's Kitchen,"Pizza, Italian",Restaurants
+768,SOkat3uLjX__3-tCowhlHg,$$,Rudy,"Burgers, Fast Food, Sandwiches",Restaurants
+769,2Wff1lKhXu56Rdsf0omDGA,$$,Rivoli Cafe & Club,"Canadian (New), Music Venues, Pool Halls","Arts & Entertainment,Restaurants,Nightlife"
+770,3dG6AB7o5QMVQzga0zotiA,$$,Irish Embassy Pub & Grill,"Pubs, Irish","Bars,Restaurants"
+771,zEwQJl9haP5BYIl0peOpGA,$$,Sugo,"Sandwiches, Italian, Cocktail Bars","Bars,Restaurants"
+772,VEMX1R4xtF5AXwKlNMyDVg,,High Park,"Playgrounds, Zoos, Parks",Active Life
+773,gIQZsUBJhtyLquNd2Wss1w,$$,Prairie Girl Bakery,"Desserts, Bakeries",Food
+774,0PM5oFKO29sZmL5efmHxug,$,Chinese Dumpling House,Chinese,Restaurants
+775,zBsAx28cbiUgqWGjKOGucA,$$,Pie Wood Fired Pizza Joint,"Pizza, Beer Bar","Bars,Restaurants"
+776,7cMnc_zSPenfSQa9_199CA,$$,Bloomer's,"Vegan, Cafes, Bakeries","Food,Restaurants"
+777,MH4xIHZ5-ajRMW3ZhUvtxA,$$,Dolce Gelato,"Desserts, Ice Cream & Frozen Yogurt, Coffee & Tea",Food
+778,DXl9YviWyzAwMeUtrBPW7w,$$,Barrio Cerveceria,"Bars, Mexican","Nightlife,Restaurants"
+779,DqORaQfDFHCFIiG4g3d1-g,$$,Sakura Japanese Cuisine,"Japanese, Sushi Bars",Restaurants
+780,G12kABl0tfK4ylgj8XF06w,$$,Voodoo Child,"Coffee & Tea, Cocktail Bars","Food,Bars"
+781,OZF7EM-W-2-V0LQOYSYhBA,$$,Lin Garden Restaurant,Chinese,Restaurants
+782,r6CaBBT6oW6laBgkrWbZFQ,$$,Earls Kitchen + Bar,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+783,qcqDjeirxvdgW5kQVkEwSA,$,The Red Room,"Pubs, Canadian (New)","Bars,Restaurants"
+784,WEwf_IKutaFK2t-cdMhEWg,$,Thai Country Kitchen,"Noodles, Thai",Restaurants
+785,4eqHtgdXEPG6V-Jzy0MhKw,$$$,Miss Things,"Asian Fusion, Hawaiian, Cocktail Bars","Bars,Restaurants"
+786,K4-J1A_ZIzG2yNkee0KOaA,$$,Keung's Delight,Chinese,Restaurants
+787,hqi9zoHMqpSLy628aHGVOQ,$,Jumbo Empanadas,Latin American,Restaurants
+788,n_-CwlqV8fzEIUPky8Ibtw,$$,The Oxley,Gastropubs,Restaurants
+789,KR8ErN2eKUlmohxmYDLBBg,$$,Koh Lipe Thai Kitchen,Thai,Restaurants
+790,NOHh2pgOTUBqp82IQlRQMQ,$$,Panagio's All Day Grill,Breakfast & Brunch,Restaurants
+791,g9cKOi-6XzQne3s5TqA2fQ,$,Pho Dau Bo Restaurant,Vietnamese,Restaurants
+792,Q3SdFs_6P3BPhPPywHZqBQ,$$,Khmer Thai Restaurant,"Cambodian, Thai",Restaurants
+793,9Ltfy9Hgizai-OT9LoD4HA,$$,Banu,Persian/Iranian,Restaurants
+794,tGBeFfwXCUZOsb0YWiMWIA,$,Ka Chi Korean Restaurant,Korean,Restaurants
+795,KDiVhKB9UneT548hThK8hw,$$,The Beet,"Juice Bars & Smoothies, Breakfast & Brunch, Organic Stores","Food,Restaurants"
+796,DfCuDI8b6rZ4nXl9Zg-eSw,$$,de Mello Palheta,"Desserts, Coffee & Tea, Bakeries",Food
+797,dy0O7DaSUd49NZWSEtvz_g,$$$,Foxley Bistro and Bar,"Tapas Bars, Asian Fusion",Restaurants
+798,oZyaFqZYf0eqKRiP-aY81Q,$$,Pho Vietnam,Vietnamese,Restaurants
+799,U-a61zpbsDNVtKm9W1aqLw,$,Jimmy's Coffee,Coffee & Tea,Food
+800,84RdNjDKXKzqZlSlT6G6PA,$,Film Cafe by Eative,"Japanese, Breakfast & Brunch, Coffee & Tea","Food,Restaurants"
+801,5G6tkZu1h-M08tip2V_6oA,$,Sugar Marmalade,Desserts,Food
+802,-PL-4fFYPYrOjnNd0lO4Lg,$$,Stout Irish Pub,"Pubs, Irish","Bars,Restaurants"
+803,gbjIwB_r6y4YhaZMwEK6mw,$,Brick Street Bakery,Bakeries,Food
+804,Kal1hFMTEzdXYpa5MNzUPw,$$,SPIN Toronto,"American (Traditional), Sports Clubs, Cocktail Bars","Bars,Active Life,Restaurants"
+805,Nq0UHjD_cKW9UbIJplQf_g,$$,Pow Wow Cafe,"Canadian (New), Cafes",Restaurants
+806,99p317EU5I0g4K8zHJD1ng,$$,Jack Astor's Bar & Grill,"Canadian (New), Burgers, Sports Bars","Bars,Restaurants"
+807,h_ypoQ2rmwX8UGSmohsGiQ,$$,Maman,"Bakeries, Coffee & Tea",Food
+808,Iadni8K9IgCJe2yB3fpgTw,$$,Banjara Indian Cuisine,Indian,Restaurants
+809,wiuhohHv4fP2LY5yogv-vQ,$$,D-Spot Dessert Cafe & Bistro,"Desserts, Cafes","Food,Restaurants"
+810,WVAvGK24DQ9FdsEHBqIygQ,$,Mi Taco Taqueria,Mexican,Restaurants
+811,lIEahf71RLPJ_rFBJ5fqzQ,$$,Sala Modern Thai Kitchen & Bar,"Asian Fusion, Thai",Restaurants
+812,EXd0QOsqz6sAOUjMJba_9w,$,Ginger Restaurant,Vietnamese,Restaurants
+813,jMSRYnx6X5BO2RtWG44aGA,$$,Hazel's Diner,Diners,Restaurants
+814,aHQOfN-PRlx_4dnJ6fPZXA,$,Patties Express,"Caribbean, Bakeries","Food,Restaurants"
+815,b9Ctxco-1HyjE55W_28MYA,$,Himalayan Coffee House,Coffee & Tea,Food
+816,C3rH8u6P3wFH95AH8SeNmw,$$$,Reds Wine Tavern,"Wine Bars, Argentine, Venues & Event Spaces","Restaurants,Bars,Event Planning & Services"
+817,CM7IDKFxV6p5FdptjXsr8A,$$,Kellys Landing,"American (Traditional), Sports Bars","Bars,Restaurants"
+818,cUvCVDTnYosaf8dir936Ew,$$,Figs Breakfast & Lunch,Breakfast & Brunch,Restaurants
+819,RvYjKtzdIPA2VBUpJJbzCw,$$,Tokyo Kitchen,Japanese,Restaurants
+820,1nQMj-F3Oz3IeP9h10CNIA,$$,The Blake House,Pubs,Bars
+821,CNPnbJlMmCx08geOvDmH7A,$$$,Blu Ristorante,"Lounges, Italian","Bars,Restaurants"
+822,cfGNZTCw1pCR_fma6wgfwg,$,Ginger,Vietnamese,Restaurants
+823,UH6mET5JYZR6yPDVpTG9Og,$$,Little Anthony's,"Bars, Italian","Restaurants,Nightlife"
+824,yS7331JlJdKlk9VNaSt64w,$$$,CopaCabana Brazilian Steakhouse,"Steakhouses, Brazilian, Latin American",Restaurants
+825,Ww-qDl1G9Kr7igS3ouA_Cw,$$$,Boehmer,Canadian (New),Restaurants
+826,72_6srKAdZPSHCGNwK2Hfg,$$,Eden Trattoria,"Tapas Bars, Italian",Restaurants
+827,5LPK0LeKiS4HKzYwKXvFLg,$$,Suliko Restaurant,"Modern European, Russian",Restaurants
+828,kTHraDyzfXvW-98VT-P3mg,$$,T-Bones Sizzling Steaks & Burgers Drive-In Restaurant,"Burgers, Steakhouses",Restaurants
+829,7PK9PIdWdPtAp0gB31hO7Q,$$,Sunset Grill,"Canadian (New), Breakfast & Brunch, Diners",Restaurants
+830,XdY36-Qh_DxnCaFpTPfYMg,$$,Tori's Bakeshop,"Organic Stores, Bakeries, Coffee & Tea",Food
+831,759faMgpYDW-00vxd-In3A,$$,Song Cook's,Korean,Restaurants
+832,G1Ce_QBHwT_R8Fc2-ARrwQ,$$$,Tachi,"Japanese, Sushi Bars",Restaurants
+833,l07ctcrDMV--TYwe3uzebQ,$$,Huh Ga Ne,Korean,Restaurants
+834,98F8oDH8Dq8Vr-0zdeSUnQ,$$,The Pilot Tavern,Bars,Nightlife
+835,9xdVIIzHp12Zrox5aFaaHA,$$,Pizzeria Defina,"Pizza, Italian",Restaurants
+836,iAxsnFs3qq0Qx1EJ1S9SoQ,$$,Koyoi Restaurant & Bar,"Japanese, Bars","Nightlife,Restaurants"
+837,kemSq9mBxmPaKHQrUXPJ_g,$$,Kupfert & Kim,"Vegetarian, Vegan, Gluten-Free",Restaurants
+838,grzKamxEuXTZrTkiztLQGg,$,Babu Catering & Take Out,Indian,Restaurants
+839,u0KWFEkp2KCaB0ebmvi4Kw,$$,The Office Pub,"Pubs, American (Traditional), Sports Bars","Bars,Restaurants"
+840,rKBqoXbY70awQP6p68e1_w,$$$,Miller Tavern,"Wine Bars, Steakhouses, Seafood","Bars,Restaurants"
+841,uG0yvj2JWfCf0eaIgxcwXQ,$,Our Spot,"Breakfast & Brunch, Coffee & Tea","Food,Restaurants"
+842,lJOGYkb8_n77ixVh_3zaug,$$$,Globe Bistro,Canadian (New),Restaurants
+843,dT70QOjn-o9pkdSAAPdSWQ,$$,Pogue Mahone Pub & Kitchen,Pubs,Bars
+844,V9DPZmn2irq3hC-X4vxaBg,$$,Betty's,"Pubs, Dive Bars, American (Traditional)","Bars,Restaurants"
+845,dsIHIXyAl_ldqkd8QekvTQ,$$,Gabby’s King West,"Canadian (New), Seafood, Bars","Nightlife,Restaurants"
+846,aPwWn5KBNMOEYjlYwXRORw,$$,Market Street Catch,Seafood,Restaurants
+847,txu9xTY-ux48HS8m7eUofw,$,M'Zaar Restaurant,"Mediterranean, Lebanese","Middle Eastern,Restaurants"
+848,QoXT0qI6_3WeHImUuLAyjg,$$,The George Street Diner,"Breakfast & Brunch, Diners",Restaurants
+849,3ohJ9WQLb5Cbb_j1zdJ-xg,$$,Fabarnak Community Cafe and Catering,"Cafes, Caterers","Event Planning & Services,Restaurants"
+850,C6uJ3mbYCuQyy9PK2rBcKw,$$,Granite Brewery & Restaurant,"Pubs, Breweries, American (Traditional)","Food,Bars,Restaurants"
+851,rsjrcxOIJm9VdkSNpkXZ9Q,$$,Via Cibo,"Sandwiches, Pizza, Italian",Restaurants
+852,1DtyA7pnc66hTkv64lKlzw,$$,Takht-e Tavoos,Persian/Iranian,Restaurants
+853,klu0zF1rWAoNAhKPsFyUog,$$,LOCAL Leaside,"Gastropubs, Breakfast & Brunch, American (Traditional)",Restaurants
+854,7wsE_8oB-XWz5KJurb0O4w,$,Boba Boy,Bubble Tea,Food
+855,pTbkdBDDKxNVjKUZ_6RAug,$$,Xawaash,"Mediterranean, Middle Eastern",Restaurants
+856,8J0NuWmoFfSGe5LuaiMfpg,$$,Sake Bar Kushi,"Japanese, Tapas Bars, Sushi Bars",Restaurants
+857,LmIGu7WPby4lm8MpELlOMw,$,Salad Days,"Salad, Food Stands",Restaurants
+858,l1_S1mfGbEMxfT1f9omhEA,$$,Royaltea,"Tea Rooms, Desserts, Ice Cream & Frozen Yogurt",Food
+859,cUxsG0rgpE18dMyvyw8Gdg,$$,Moxie's Grill & Bar,"Canadian (New), Lounges, Steakhouses","Bars,Restaurants"
+860,BJ9GwNMo8vIgSuKc6B_mOw,$$,Dynasty Chinese Cuisine,Dim Sum,Chinese
+861,NKYirjjTpzezUi4Rhj64bA,$,Pho 88 North York,"Vietnamese, Chinese, Thai",Restaurants
+862,HwRmXSukIsn_1KEpapYz0Q,$$,Fuwa Fuwa Japanese Pancakes,"Desserts, Bakeries, Patisserie/Cake Shop",Food
+863,XqPMOwrJ0xjphyNQYcoPLg,$,Buddha's Vegan Foods,"Vegetarian, Vegan, Chinese",Restaurants
+864,b6sUcJj_xbeYrKKOsS9Gjw,$$,OneZo Tapioca,"Juice Bars & Smoothies, Bubble Tea",Food
+865,l2WFLLHJnO0cCheozTaRXQ,$,Alexandros,Greek,Restaurants
+866,XH2FCZmsisDc8-oPw_ygHg,$$,Denny's,"Breakfast & Brunch, Diners, American (Traditional)",Restaurants
+867,sa1ZAswk7kEQfg9Mb6iQwQ,$$$,L'Unita Enoteca,Italian,Restaurants
+868,zzUj3ej4vm_DtvRxNvWDEw,$$,Wheat Sheaf Tavern,Pubs,Bars
+869,bRmb81XDG3E2SOHARBLTog,$$$,Bodega Restaurant,"Bars, French, Venues & Event Spaces","Event Planning & Services,Nightlife,Restaurants"
+870,fJvY-QjDY1ZWWArjx9rRIw,$$,KINTON RAMEN,Ramen,Japanese
+871,0mM_smCpKeKaL0MPMKOLFg,$$,Sukho Thai,Thai,Restaurants
+872,MwI_po3xC40QUnoak-0Wgw,$,Gong Cha Tea,"Juice Bars & Smoothies, Coffee & Tea",Food
+873,d5n_zQMaVZxFKNnS-4ludA,$$,Hoops Sports Bar & Grill,"American (Traditional), Sports Bars","Bars,Restaurants"
+874,6ALBeke4yZcCorqLMvpFoA,$$,Easy Breakfast,Breakfast & Brunch,Restaurants
+875,0JqPI6mv7xHloURlf0L4Mg,$$,Thai On Yonge,Thai,Restaurants
+876,yH0sMc0CE_k1aWbumt04xA,$$$,Soma Chocolatemaker,"Ice Cream & Frozen Yogurt, Desserts, Chocolatiers & Shops","Food,Specialty Food"
+877,qcDFrv2EQU9GeIAAVqdA-g,$$,Jack Astor's Bar & Grill,"Canadian (New), Burgers, Sports Bars","Bars,Restaurants"
+878,YIez_A3WOt9J2SXN7OMa2Q,$,Allwyn's Bakery,Caribbean,Restaurants
+879,7LBVI9euGV3ugO0-efZHvg,$$,Duff's Famous Wings,Chicken Wings,Restaurants
+880,wrWGsYm9NwptTGN9gbkGSA,$$,Bunner's Bakeshop,"Vegan, Gluten-Free, Bakeries","Food,Restaurants"
+881,Jnw072ogcKlp758gI_PTjQ,$$,The Grille Restaurant & Bar,"Barbeque, Breakfast & Brunch, Bars","Nightlife,Restaurants"
+882,JEXasd9XUHFbt_fIdmdK8g,$$$$,Restaurant La Banane,"Bistros, Seafood, French",Restaurants
+883,Pz13Ru_-U4qoZiu89ezVmQ,$$,Utsav,"Indian, Food Delivery Services","Food,Restaurants"
+884,PKCWEVPO0riXQC6toyXMMQ,$$,Great Burger Kitchen,Burgers,Restaurants
+885,PPCEx65Lm121Hw5yQhM_Zw,$$,Craft Beer Market,"Beer Bar, American (Traditional)","Bars,Restaurants"
+886,K5Q2vkF5UpytV9Q1rB-5Yg,$$$$,Akira Back,"Japanese, Asian Fusion, Korean",Restaurants
+887,Gl6xFX8vM5dqknF9azPCMQ,$$$,The Keg Steakhouse + Bar - Esplanade,"Steakhouses, Seafood, Bars","Nightlife,Restaurants"
+888,u6ylhDrUV1v6g5Aex8rebw,$$,Impact Kitchen,"Juice Bars & Smoothies, Gluten-Free, Coffee & Tea","Food,Restaurants"
+889,bePq038NPxK7-WyPNe9FZw,$$,Ga Bin Korean Restaurant,"Barbeque, Korean, Soup",Restaurants
+890,q0hAKzn_LmyUiScCuWS4Hg,$$,Korean Grill House,Korean,Restaurants
+891,QWbRrFpE-xXAToUbO83Djg,$$,Duff's Famous Wings,Chicken Wings,Restaurants
+892,oqJe5o_4J0xkhvTSTP9UNQ,$$,Sushi Couture,"Japanese, Sushi Bars",Restaurants
+893,CLNqviorDO-pQvxTTy3kbA,$,Green Room,Dive Bars,Bars
+894,cInYKKK7p9y1FokuKClNtw,$$,Bunner's,"Vegan, Gluten-Free, Bakeries","Food,Restaurants"
+895,pIB-Js9drl27qrrSjKK_eA,$$,Artisan Noodle,Chinese,Restaurants
+896,qbQ1qZx6eTy7pOOXMBfQNQ,$$,Boom Breakfast & Co,Breakfast & Brunch,Restaurants
+897,ZspGe6tJ3d2Y4rxwAG8h-Q,$$,Corner By Spoon and Fork,"Breakfast & Brunch, Fast Food, Thai",Restaurants
+898,kwRWzhS3UoIIeoi7ghK6uw,$$,Paddington's Pump,"Breakfast & Brunch, Sandwiches",Restaurants
+899,AprsB5kibAxqt77MeCPy6g,$$,Raw Aura,"Vegan, Vegetarian, Caterers","Event Planning & Services,Restaurants"
+900,FJY3WbrP1UFPJaG_87kNdA,$$,Hank Daddy's Barbecue,"Southern, Sandwiches, Barbeque",Restaurants
+901,Z4MvEVylnZPW_vddQc2Ihg,$$,Genghis Khan Mongolian Grill,"Barbeque, Chinese, Mongolian",Restaurants
+902,3a7Qby_IX7sU7O6ZsQZeOQ,$$,RH Toronto Courtyard Café,"Breakfast & Brunch, Salad",Restaurants
+903,sLxbYuDP41cMMCsov0ULOQ,$$,Centre Street Deli,Delis,Restaurants
+904,ik9VvawL-BeAqlxTI1leew,$$,Gonoe Sushi,"Japanese, Sushi Bars",Restaurants
+905,WlkOFaqRL5vtYZZ7fl4x1Q,$$,Three Speed,Bars,Nightlife
+906,YWd0I1BxSzFG61lSyC3IyQ,$$,Disgraceland,Pubs,Bars
+907,GGfavkYjctCjBpz3Zun4RA,$$,Village Idiot Pub & Grill,Pubs,Bars
+908,KpFgHrxoVOiwfpR0f5KXUA,$$,Thrive Organic Kitchen & Café,"Vegan, Vegetarian, Juice Bars & Smoothies","Food,Restaurants"
+909,AtpYrfIJJuSMc8h2fWQEIw,$,Wong's Ice Cream & Store,"Desserts, Ice Cream & Frozen Yogurt",Food
+910,L82O1ZFFQfjJxF0_PYWPnA,$$,Guu Izakaya Toronto,"Japanese, Tapas Bars, Sushi Bars",Restaurants
+911,PD3ganU8NAGkqkcIXYPSxQ,$$,Fudao noodle house,"Chinese, Fast Food, Noodles",Restaurants
+912,9_CGhHMz8698M9-PkVf0CQ,$$,Little Coxwell Vietnamese & Thai Cuisine,"Vietnamese, Thai",Restaurants
+913,SSCgpKNpco3l-YZ2MC-lMw,$,Mama's Boys Burgers,Burgers,Restaurants
+914,Z8Q4V55fKi-huTpV7WDGsQ,$$,Sariwon Korean Bbq Restaurant,"Barbeque, Korean",Restaurants
+915,XvUu2SolFWL94EPEBrjEYQ,$$,Flo's Diner,"Burgers, Breakfast & Brunch, Diners",Restaurants
+916,TQAG_NpHDGGWJHTEPNDXrw,$,Mashion Bakery,Bakeries,Food
+917,WA7sC64kCRstywm2EgZXEw,$$,Pasha Authentic Turkish Cuisine,"Mediterranean, Turkish",Restaurants
+918,d_AcktF-fWL9zzvNPg7euQ,$$,Simone's Caribbean Restaurant,Caribbean,Restaurants
+919,E7Heu5iT3D1WsfxlFROgEA,$,Meet Fresh,"Tea Rooms, Taiwanese, Desserts","Food,Restaurants"
+920,0mGYvAFGxH9bGRqYHxS0BQ,$$,Touhenboku Ramen Restaurant,"Noodles, Ramen","Japanese,Restaurants"
+921,x3JHj5h33ouzw_Ynj-utJg,$$,Asian Legend,Chinese,Restaurants
+922,HxSINQAplSFAn6of-wexcA,$$,Nimman Thai Cuisine,Thai,Restaurants
+923,cwp48KVpq0e0NfvrG2qPsA,$$,Sansotei Ramen,"Noodles, Ramen","Japanese,Restaurants"
+924,mQuDZwxxPe54MY4TT8lEPQ,$$,Bar Fancy,"Chicken Shop, Bars","Nightlife,Restaurants"
+925,a_assgoJEpKu2-kyAWFc8Q,$$,Kenzo Ramen Bloor,Ramen,Japanese
+926,aQXzyObFK-Frx1fM_hLhew,$$,Kumo Japanese Restaurant,"Japanese, Sushi Bars, Thai",Restaurants
+927,xdfGzrJ1mx3mBx6m14Ebhw,$,Goldstone Noodle Restaurant,"Chinese, Noodles",Restaurants
+928,m6NIoPM9vhhevZBdF79R1A,$$,Duke of York,Pubs,Bars
+929,oKfiAU3X4C2chk6DJdKPAQ,$$,Dutch Dreams,Ice Cream & Frozen Yogurt,Food
+930,_Ss4d4dYzehTmWJGpkqL7w,$$,Taste of China,"Chinese, Seafood",Restaurants
+931,KFlwmysUsRUOx4-_5PQ8xA,$$,Symposium Cafe Restaurant & Lounge,"Lounges, Breakfast & Brunch, Cafes","Bars,Restaurants"
+932,NtII1vBcP1CiAs54kY1JQw,$$,Danforth Pizza House,Pizza,Restaurants
+933,bSLIrhdxrxuz3p_nz1iLpg,$$$,The One Eighty,"Lounges, American (Traditional)","Bars,Restaurants"
+934,gcrez7gs0uWy-l9qYvY39Q,$$,Hockey Sushi,"Japanese, Sushi Bars",Restaurants
+935,KVUOj74lBgogrdKcNQH_zQ,$$,King Palace,"Pakistani, Indian",Restaurants
+936,uEDTiYtWzFtJdJqRcPq8Lw,$$,deKEFIR,"Juice Bars & Smoothies, Desserts, Ice Cream & Frozen Yogurt",Food
+937,37kk0IW6jL7ZlxZF6k2QBg,$$$$,Edulis,"Spanish, French",Restaurants
+938,J9vAdD2dCpFuGsxPIn184w,$$$,New Orleans Seafood & Steakhouse,"Cajun/Creole, Steakhouses, Seafood",Restaurants
+939,CboINhcX-R1PGNtESJwQPQ,$,Mona's Roti-Caribbean Food,Caribbean,Restaurants
+940,C9QVknXuoDBdR9CBa_Flyw,$,Saffron Spice Kitchen,"Indian, Sandwiches, Soup",Restaurants
+941,wVc3g-YfyDvkOLDecpr4DA,$$$,Five Doors North,Italian,Restaurants
+942,U_jPOTd-Z5KATbTYnDeNxg,$,Burrito Bandidos,Mexican,Restaurants
+943,pPgyuGtcNIBRfrPFu3Vceg,$$,Poke Eats,"Sushi Bars, Poke","Food,Restaurants"
+944,O0XcTrBa8dR_kjoi4P8hww,$,Terry's Restaurant & Bar,"Greek, Breakfast & Brunch, Canadian (New)",Restaurants
+945,jo4KmAqlZ7vxjHIP7IIkAw,$$,Café La Gaffe,"Breakfast & Brunch, French",Restaurants
+946,0QjROMVW9ACKjhSEfHqNCQ,$,Mi Mi Restaurant,Vietnamese,Restaurants
+947,DLkaSKMoeeQO-_1C_lzh2A,$$,Bairrada Churrasqueira Grill,"Barbeque, Portuguese, Seafood",Restaurants
+948,-eJmNm0j12v1wuyIkfj7yQ,$$,Honest Weight,"Seafood, Seafood Markets","Specialty Food,Restaurants"
+949,tE88d-oHmNngAZNdD9EHjg,$,Avenue Open Kitchen,"Delis, Diners, Sandwiches",Restaurants
+950,i1bwc_MLGgOIJ8S0r2uu2w,$$,Panera Bread,"Salad, Sandwiches, Soup",Restaurants
+951,zyw5DjrRks7a8OhmBsgCQQ,$$,The Pour House Pub And Kitchen,"Pubs, Canadian (New)","Bars,Restaurants"
+952,WTi4ZE99EGuoI3P27vpH8g,$$,Bar Hop,Pubs,Bars
+953,4KPp6fLU8WJHJ63bxSb3Ww,$$,Country Style Hungarian Restaurant,"Comfort Food, Hungarian",Restaurants
+954,2lo7N8RZOCS0DDxO6LPQhw,$,Naniwa-Taro,Japanese,Restaurants
+955,If8BMnK0BFY213rOtxs9Yg,$$,Sea Witch Fish and Chips,Fish & Chips,Restaurants
+956,mFBZcwkHuys0pbyBGOhKoQ,$$,Flock Rotisserie + Greens,"Chicken Shop, Salad",Restaurants
+957,3RlylOY452bA8rwliPUeUQ,$$,Miss Korea,Korean,Restaurants
+958,ghWwqlRd1MaWz8hfgZ8Vsw,$$,Hollywood Gelato,Ice Cream & Frozen Yogurt,Food
+959,V1FSee0pZ-yReDQ28SAO3g,$$,White Lily Diner,"Breakfast & Brunch, Diners",Restaurants
+960,ydM0qCPG1cTZvAguCi2ucA,$$,Rhum Corner,"Salad, Caribbean, Cocktail Bars","Bars,Restaurants"
+961,7v-SzvvHU2D2V50OzJAL2Q,$$,Roll N Bowl,"Japanese, Korean",Restaurants
+962,Mx8jCUdhaNbMgx_04DWHdA,$,Jacksons Burger,Burgers,Restaurants
+963,MLQeuiL9rqOq_rDKGEcU0A,$$$,F'Amelia,"Pizza, Italian",Restaurants
+964,PAJlmByrU8zAB3WsXxA30Q,$$,Legend Chinese Restaurant,Chinese,Restaurants
+965,tHlJKmUECTlj2amcGG0TOQ,$,Bobbie Sue's Mac & Cheese,Comfort Food,Restaurants
+966,kNlna23mYfRqGv7VJByKkA,$$$$,La Castile Steak House & Seafood Restaurant,"Steakhouses, Seafood",Restaurants
+967,OsB_ZtFAaLDCPzvlAjHQ-w,$$,Dum Pukht,Indian,Restaurants
+968,EKeck5myBgPqy2ShyGEjHw,$$,AAA Bar,"Pubs, Barbeque","Bars,Restaurants"
+969,7XQLq8mnPeO5Wjhx7EBajg,$,Pho Orchid,Vietnamese,Restaurants
+970,vMpJzMFst_9GP4boeqWIRg,$$,Congee Queen,Chinese,Restaurants
+971,JJ8ypBu3b--fy4HA5RB1gg,$$$$,Morton's The Steakhouse,Steakhouses,Restaurants
+972,3XVAfJQdX327pqNZg5KV5g,$$,Bazara Asian Cuisine,"Asian Fusion, Sushi Bars",Restaurants
+973,OSF8Iy5Xq-hAN4-zhDVS4w,$$,Bar Reyna,"Mediterranean, Cocktail Bars","Bars,Restaurants"
+974,RsXu_NNblaAHT3onHWlLIA,$$,KINTON RAMEN,Ramen,Japanese
+975,fZDNuuFSnCtcXI3_RAFcSQ,$$,Ozzy's Burgers,"Burgers, Fast Food, Sandwiches",Restaurants
+976,bhoJYB0ArSqRe-Q82BI4vA,$$,Kyouka Ramen,Ramen,Japanese
+977,BmV0ZAdepydSujYJH5_EQw,$$,Saryo Cafe,Desserts,Food
+978,gtcsOodbmk4E0TulYHnlHA,$$,Northwood,"Cafes, Cocktail Bars","Bars,Restaurants"
+979,qQsrcouREdFUk4adim1uEA,$,Mamajoun Armenian Pizzeria,"Pizza, Sandwiches",Restaurants
+980,WRj8rLeJpU49wqU9EmZLEg,$$,Fancy Franks,"Hot Dogs, Burgers, Poutineries",Restaurants
+981,8FqfLM0Kv3Grr9l8bOAlCA,$,Athens Pastries,"Mediterranean, Bakeries","Food,Restaurants"
+982,bNHeKmkBx5emT9xLfdWyjw,$$,Tokyo Sushi,"Japanese, Sushi Bars",Restaurants
+983,rfgln6-7WFCu7S7fOoqMdA,$,Loga's Corner,Himalayan/Nepalese,Restaurants
+984,j29tuUdrfaxmGjwxHdHZPA,$,Tango Palace Coffee Company,Coffee & Tea,Food
+985,McaRYgVwOCmtWkKxNsXlZg,$$,Royal Meats Bar/Beque,"Mediterranean, Bars, Modern European","Restaurants,Nightlife"
+986,9LE2yGl23qxitNc9mkpbjA,$,Fresca Pizza & Pasta,"Pizza, Italian",Restaurants
+987,mw2TffuWp9kEDd4EPPZ4aw,$$,The Bedford Academy,Pubs,Bars
+988,o19vbA9-BuvHXrE4nYJ60A,$$,The Rebel House,"Pubs, Gastropubs","Bars,Restaurants"
+989,QjhrYO6LD5mrU0WI7jxZ-g,$,Little Pebbles,"Desserts, Coffee & Tea",Food
+990,IhM1UBvAMM5Fia4f_v1wdQ,$,El Nahual Tacos,Mexican,Restaurants
+991,_crbEZ55ve6OFkoWa09R9A,$$,The Wickson Social,"Canadian (New), Cocktail Bars","Bars,Restaurants"
+992,bDgmLfAh_TWRCHEYC8hbpQ,$$$,The Keg Steakhouse & Bar,"Steakhouses, Bars","Nightlife,Restaurants"
+993,AM0NHSxMeX92OKBt0ywmSA,$$,La Carnita,Mexican,Restaurants
+994,88RkIuXwJeDzfzSu9xsyzw,$$,Asian Legend,Chinese,Restaurants
+995,UpbTdzW9OoVrnbpHyxnMWg,$$,Mandarin Restaurant - Toronto,"Buffets, Chinese, Sushi Bars",Restaurants
+996,-0NrB58jqKqJfuUCDupcsw,$$,The Fry,"Korean, Bars, Soul Food","Restaurants,Nightlife"
+997,OFAiA6En2HD0CqLkFDCNpg,$$,The Host,Indian,Restaurants
+998,GNEjlH_KssnJVRtqV4hAiw,$$,Enat Buna  Ethiopian Fusion  Cafe,"Ethiopian, Breakfast & Brunch",Restaurants
+999,7HrCELR6uv2HkgL7aT_hcQ,$$$$,Chiado,"Portuguese, Seafood",Restaurants
