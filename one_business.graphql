@@ -1,0 +1,15 @@
+{
+  search(term: "%s",
+         location: "Toronto",limit:10) {
+    business{
+      name
+      price
+      categories{
+        title
+        parent_categories{
+          title
+        }
+      }
+    }
+  }
+}
